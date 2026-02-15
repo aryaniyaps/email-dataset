@@ -13,18 +13,22 @@ SUBJECT_RE = re.compile(r"^Subject:\s*(.+)", re.MULTILINE)
 # Body regexes
 SERIAL_RE = re.compile(r"Serial Number\s+([A-Z0-9\-]+)", re.IGNORECASE)
 ITEM_NAME_RE = re.compile(r'item named\s+"([^"]+)"', re.IGNORECASE)
-DESC_RE = re.compile(r"item description is:\s*(.+?)(?:\n|$)", re.IGNORECASE)
-SPEC_RE = re.compile(r"item specification is:\s*(.+?)(?:\n|$)", re.IGNORECASE)
-QTY_RE = re.compile(r"item quantity\s+is\s+(\d+)\s+units", re.IGNORECASE)
+DESC_RE = re.compile(r"item description is:\s*(.+?)\. ", re.IGNORECASE)
+SPEC_RE = re.compile(
+    r"item specification(?:\s+is(?:\s+\w+)*|\s+that[^:]*is|\s+of)?:\s*(.+?)\. ",
+    re.IGNORECASE,
+)
+QTY_RE = re.compile(r"item quantity\s+(?:required\s+)?is\s+(\d+)\s+units", re.IGNORECASE)
+QTY_OF_RE = re.compile(r"item quantity\s+of\s+(\d+)\s+units", re.IGNORECASE)
 QTY_GENERAL_RE = re.compile(r"item quantity\s+(\d+)\s+units", re.IGNORECASE)
-DEADLINE_RE = re.compile(r"item deadline\s+is\s+([0-9\-]+)", re.IGNORECASE)
+DEADLINE_RE = re.compile(r"item deadline\s+(?:is|of)\s+([0-9\-]+)", re.IGNORECASE)
 
 def extract_first(pat, text, default=""):
     m = pat.search(text)
     return m.group(1).strip() if m else default
 
 def extract_quantity(text):
-    for pat in (QTY_RE, QTY_GENERAL_RE):
+    for pat in (QTY_RE, QTY_OF_RE, QTY_GENERAL_RE):
         m = pat.search(text)
         if m:
             return m.group(1).strip()
