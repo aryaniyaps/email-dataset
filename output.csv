@@ -1,0 +1,1501 @@
+source_email,to,from,subject,body,serial_number,item_name,item_description,item_specification,item_quantity,item_deadline
+"To: production.team@factory.example.com
+From: planning.officer+1@factory.example.com
+Subject: Plan for Gear Assembly Batch SN-0001
+
+Hi team,
+
+We need to schedule a new batch under Serial Number SN-0001 for the item named ""Gear Assembly Type A1"". For clarity, the item description is: precision-cut gear assembly for the primary conveyor drive stage. Please note that the item specification is: Material=Alloy Steel; Teeth=32; Module=2.5; Diameter=80mm; Finish=Heat Treated. The required item quantity is 150 units, and the item deadline is 2026-03-01, so plan machining and inspection accordingly.
+
+Thanks,
+Production Planning",production.team@factory.example.com,planning.officer+1@factory.example.com,Plan for Gear Assembly Batch SN-0001,"Hi team,
+
+We need to schedule a new batch under Serial Number SN-0001 for the item named ""Gear Assembly Type A1"". For clarity, the item description is: precision-cut gear assembly for the primary conveyor drive stage. Please note that the item specification is: Material=Alloy Steel; Teeth=32; Module=2.5; Diameter=80mm; Finish=Heat Treated. The required item quantity is 150 units, and the item deadline is 2026-03-01, so plan machining and inspection accordingly.
+
+Thanks,
+Production Planning",SN-0001,Gear Assembly Type A1,"precision-cut gear assembly for the primary conveyor drive stage. Please note that the item specification is: Material=Alloy Steel; Teeth=32; Module=2.5; Diameter=80mm; Finish=Heat Treated. The required item quantity is 150 units, and the item deadline is 2026-03-01, so plan machining and inspection accordingly.","Material=Alloy Steel; Teeth=32; Module=2.5; Diameter=80mm; Finish=Heat Treated. The required item quantity is 150 units, and the item deadline is 2026-03-01, so plan machining and inspection accordingly.",150,2026-03-01
+"To: assembly.line1@factory.example.com
+From: planning.officer+2@factory.example.com
+Subject: Conveyor Belt Requirement SN-0002
+
+Hello,
+
+Under Serial Number SN-0002 we have an order for the item named ""Conveyor Belt Type C2"". The item description is: continuous rubber belt for the packaging line outfeed conveyor. Make sure you follow this item specification: Material=Reinforced Rubber; Length=18m; Width=800mm; Thickness=8mm; Ply=4. The committed item quantity is 40 units, and the item deadline is 2026-03-02, as confirmed with the customer.
+
+Regards,
+Planning Dept.",assembly.line1@factory.example.com,planning.officer+2@factory.example.com,Conveyor Belt Requirement SN-0002,"Hello,
+
+Under Serial Number SN-0002 we have an order for the item named ""Conveyor Belt Type C2"". The item description is: continuous rubber belt for the packaging line outfeed conveyor. Make sure you follow this item specification: Material=Reinforced Rubber; Length=18m; Width=800mm; Thickness=8mm; Ply=4. The committed item quantity is 40 units, and the item deadline is 2026-03-02, as confirmed with the customer.
+
+Regards,
+Planning Dept.",SN-0002,Conveyor Belt Type C2,"continuous rubber belt for the packaging line outfeed conveyor. Make sure you follow this item specification: Material=Reinforced Rubber; Length=18m; Width=800mm; Thickness=8mm; Ply=4. The committed item quantity is 40 units, and the item deadline is 2026-03-02, as confirmed with the customer.",,40,2026-03-02
+"To: sensors.cell@factory.example.com
+From: planning.officer+3@factory.example.com
+Subject: Optical Sensor Modules SN-0003
+
+Hi,
+
+Please start production under Serial Number SN-0003 for the item named ""Optical Sensor Module OSM-3"". The item description is: reflective optical sensor assembly used for carton detection at the infeed. The agreed item specification is: Voltage=24VDC; Range=0.2-2.0m; Output=PNP NO; IP Rating=IP65. We need an item quantity of 75 units, and the item deadline is 2026-03-03, which must be met for the new line commissioning.
+
+Thanks,
+Planning",sensors.cell@factory.example.com,planning.officer+3@factory.example.com,Optical Sensor Modules SN-0003,"Hi,
+
+Please start production under Serial Number SN-0003 for the item named ""Optical Sensor Module OSM-3"". The item description is: reflective optical sensor assembly used for carton detection at the infeed. The agreed item specification is: Voltage=24VDC; Range=0.2-2.0m; Output=PNP NO; IP Rating=IP65. We need an item quantity of 75 units, and the item deadline is 2026-03-03, which must be met for the new line commissioning.
+
+Thanks,
+Planning",SN-0003,Optical Sensor Module OSM-3,"reflective optical sensor assembly used for carton detection at the infeed. The agreed item specification is: Voltage=24VDC; Range=0.2-2.0m; Output=PNP NO; IP Rating=IP65. We need an item quantity of 75 units, and the item deadline is 2026-03-03, which must be met for the new line commissioning.","Voltage=24VDC; Range=0.2-2.0m; Output=PNP NO; IP Rating=IP65. We need an item quantity of 75 units, and the item deadline is 2026-03-03, which must be met for the new line commissioning.",,2026-03-03
+"To: panels.shop@factory.example.com
+From: planning.officer+4@factory.example.com
+Subject: Main Control Panels SN-0004
+
+Team,
+
+This mail is to confirm Serial Number SN-0004 for the item named ""Control Panel CP-4"". The item description is: main control panel for the batch mixer line including PLC and HMI. Please adhere to the following item specification: Enclosure=MS Powder Coated; PLC=32 I/O; HMI=7 inch; Supply=415VAC. The required item quantity is 6 units, and the item deadline is 2026-03-04, in line with the electrical contractor’s schedule.
+
+Regards,
+Planning Office",panels.shop@factory.example.com,planning.officer+4@factory.example.com,Main Control Panels SN-0004,"Team,
+
+This mail is to confirm Serial Number SN-0004 for the item named ""Control Panel CP-4"". The item description is: main control panel for the batch mixer line including PLC and HMI. Please adhere to the following item specification: Enclosure=MS Powder Coated; PLC=32 I/O; HMI=7 inch; Supply=415VAC. The required item quantity is 6 units, and the item deadline is 2026-03-04, in line with the electrical contractor’s schedule.
+
+Regards,
+Planning Office",SN-0004,Control Panel CP-4,"main control panel for the batch mixer line including PLC and HMI. Please adhere to the following item specification: Enclosure=MS Powder Coated; PLC=32 I/O; HMI=7 inch; Supply=415VAC. The required item quantity is 6 units, and the item deadline is 2026-03-04, in line with the electrical contractor’s schedule.",,6,2026-03-04
+"To: motor.assembly@factory.example.com
+From: planning.officer+5@factory.example.com
+Subject: Motor Assemblies for Conveyor SN-0005
+
+Hi team,
+
+We are releasing Serial Number SN-0005 covering the item named ""Induction Motor Assembly IM-5"". The item description is: three-phase induction motor supplied with mounting brackets and terminal box. As discussed, the item specification is: Power=5kW; Voltage=415VAC; Speed=1440rpm; Frame=112M; Protection=IP55. Please produce an item quantity of 24 units, and keep in mind that the item deadline is 2026-03-05 to match mechanical installation.
+
+Thanks,
+Planning",motor.assembly@factory.example.com,planning.officer+5@factory.example.com,Motor Assemblies for Conveyor SN-0005,"Hi team,
+
+We are releasing Serial Number SN-0005 covering the item named ""Induction Motor Assembly IM-5"". The item description is: three-phase induction motor supplied with mounting brackets and terminal box. As discussed, the item specification is: Power=5kW; Voltage=415VAC; Speed=1440rpm; Frame=112M; Protection=IP55. Please produce an item quantity of 24 units, and keep in mind that the item deadline is 2026-03-05 to match mechanical installation.
+
+Thanks,
+Planning",SN-0005,Induction Motor Assembly IM-5,"three-phase induction motor supplied with mounting brackets and terminal box. As discussed, the item specification is: Power=5kW; Voltage=415VAC; Speed=1440rpm; Frame=112M; Protection=IP55. Please produce an item quantity of 24 units, and keep in mind that the item deadline is 2026-03-05 to match mechanical installation.","Power=5kW; Voltage=415VAC; Speed=1440rpm; Frame=112M; Protection=IP55. Please produce an item quantity of 24 units, and keep in mind that the item deadline is 2026-03-05 to match mechanical installation.",,2026-03-05
+"To: pneumatics.cell@factory.example.com
+From: planning.officer+6@factory.example.com
+Subject: Double-Acting Cylinders SN-0006
+
+Hello team,
+
+Kindly plan for Serial Number SN-0006 associated with the item named ""Pneumatic Cylinder PC-6"". The item description is: double-acting pneumatic cylinder used in the pusher mechanism on the packaging line. The required item specification is: Bore=50mm; Stroke=200mm; Pressure=6bar; Mounting=Front Flange. We need an item quantity of 60 units, and the item deadline is 2026-03-06, so please align with stores for material availability.
+
+Best,
+Production Planning",pneumatics.cell@factory.example.com,planning.officer+6@factory.example.com,Double-Acting Cylinders SN-0006,"Hello team,
+
+Kindly plan for Serial Number SN-0006 associated with the item named ""Pneumatic Cylinder PC-6"". The item description is: double-acting pneumatic cylinder used in the pusher mechanism on the packaging line. The required item specification is: Bore=50mm; Stroke=200mm; Pressure=6bar; Mounting=Front Flange. We need an item quantity of 60 units, and the item deadline is 2026-03-06, so please align with stores for material availability.
+
+Best,
+Production Planning",SN-0006,Pneumatic Cylinder PC-6,"double-acting pneumatic cylinder used in the pusher mechanism on the packaging line. The required item specification is: Bore=50mm; Stroke=200mm; Pressure=6bar; Mounting=Front Flange. We need an item quantity of 60 units, and the item deadline is 2026-03-06, so please align with stores for material availability.","Bore=50mm; Stroke=200mm; Pressure=6bar; Mounting=Front Flange. We need an item quantity of 60 units, and the item deadline is 2026-03-06, so please align with stores for material availability.",,2026-03-06
+"To: pneumatics.cell@factory.example.com
+From: planning.officer+7@factory.example.com
+Subject: Valve Manifolds for New Line SN-0007
+
+Hi,
+
+This is to confirm Serial Number SN-0007 for the item named ""Valve Manifold VM-7"". The item description is: solenoid valve manifold used for the pneumatic control circuits of the new filling line. Please build according to this item specification: Stations=8; Voltage=24VDC; Port Size=1/4 inch; Body=Aluminum. The planned item quantity is 18 units, and the item deadline is 2026-03-07, as per the commissioning plan.
+
+Regards,
+Planning",pneumatics.cell@factory.example.com,planning.officer+7@factory.example.com,Valve Manifolds for New Line SN-0007,"Hi,
+
+This is to confirm Serial Number SN-0007 for the item named ""Valve Manifold VM-7"". The item description is: solenoid valve manifold used for the pneumatic control circuits of the new filling line. Please build according to this item specification: Stations=8; Voltage=24VDC; Port Size=1/4 inch; Body=Aluminum. The planned item quantity is 18 units, and the item deadline is 2026-03-07, as per the commissioning plan.
+
+Regards,
+Planning",SN-0007,Valve Manifold VM-7,"solenoid valve manifold used for the pneumatic control circuits of the new filling line. Please build according to this item specification: Stations=8; Voltage=24VDC; Port Size=1/4 inch; Body=Aluminum. The planned item quantity is 18 units, and the item deadline is 2026-03-07, as per the commissioning plan.",,18,2026-03-07
+"To: fabrication.shop@factory.example.com
+From: planning.officer+8@factory.example.com
+Subject: Mixing Tanks Requirement SN-0008
+
+Dear Fabrication Team,
+
+We are initiating Serial Number SN-0008 for the item named ""Stainless Steel Tank ST-8"". The item description is: mixing tank for liquid ingredients with a top-mounted agitator and cleanable interior. The relevant item specification is: Capacity=1000L; Grade=SS304; Thickness=4mm; Finish=Sanitary. Please fabricate an item quantity of 3 units, ensuring that the item deadline is 2026-03-08 to support the pilot batch trials.
+
+Thanks,
+Planning",fabrication.shop@factory.example.com,planning.officer+8@factory.example.com,Mixing Tanks Requirement SN-0008,"Dear Fabrication Team,
+
+We are initiating Serial Number SN-0008 for the item named ""Stainless Steel Tank ST-8"". The item description is: mixing tank for liquid ingredients with a top-mounted agitator and cleanable interior. The relevant item specification is: Capacity=1000L; Grade=SS304; Thickness=4mm; Finish=Sanitary. Please fabricate an item quantity of 3 units, ensuring that the item deadline is 2026-03-08 to support the pilot batch trials.
+
+Thanks,
+Planning",SN-0008,Stainless Steel Tank ST-8,"mixing tank for liquid ingredients with a top-mounted agitator and cleanable interior. The relevant item specification is: Capacity=1000L; Grade=SS304; Thickness=4mm; Finish=Sanitary. Please fabricate an item quantity of 3 units, ensuring that the item deadline is 2026-03-08 to support the pilot batch trials.","Capacity=1000L; Grade=SS304; Thickness=4mm; Finish=Sanitary. Please fabricate an item quantity of 3 units, ensuring that the item deadline is 2026-03-08 to support the pilot batch trials.",,2026-03-08
+"To: fabrication.shop@factory.example.com
+From: planning.officer+9@factory.example.com
+Subject: Agitator Shaft Production SN-0009
+
+Hi team,
+
+Under Serial Number SN-0009 we have an order for the item named ""Agitator Shaft AS-9"". The item description is: shaft assembly used in the stainless mixing tank agitator for homogenization. Please respect the item specification: Material=SS316; Diameter=45mm; Length=1800mm; Balance=G6.3. The requested item quantity is 9 units, and the item deadline is 2026-03-09, which is critical for tank assembly.
+
+Regards,
+Planning Dept.",fabrication.shop@factory.example.com,planning.officer+9@factory.example.com,Agitator Shaft Production SN-0009,"Hi team,
+
+Under Serial Number SN-0009 we have an order for the item named ""Agitator Shaft AS-9"". The item description is: shaft assembly used in the stainless mixing tank agitator for homogenization. Please respect the item specification: Material=SS316; Diameter=45mm; Length=1800mm; Balance=G6.3. The requested item quantity is 9 units, and the item deadline is 2026-03-09, which is critical for tank assembly.
+
+Regards,
+Planning Dept.",SN-0009,Agitator Shaft AS-9,"shaft assembly used in the stainless mixing tank agitator for homogenization. Please respect the item specification: Material=SS316; Diameter=45mm; Length=1800mm; Balance=G6.3. The requested item quantity is 9 units, and the item deadline is 2026-03-09, which is critical for tank assembly.",,9,2026-03-09
+"To: machining.cell@factory.example.com
+From: planning.officer+10@factory.example.com
+Subject: Bearing Housings for Drive SN-0010
+
+Hello,
+
+Please schedule Serial Number SN-0010 for the item named ""Bearing Housing BH-10"". The item description is: plummer block bearing housing for the main conveyor drive shaft. As per design, the item specification is: Size=UCP210; Material=Cast Iron; Finish=Painted; Seal=Standard. We require an item quantity of 30 units, and the item deadline is 2026-03-10 to maintain the assembly timeline.
+
+Best regards,
+Planning",machining.cell@factory.example.com,planning.officer+10@factory.example.com,Bearing Housings for Drive SN-0010,"Hello,
+
+Please schedule Serial Number SN-0010 for the item named ""Bearing Housing BH-10"". The item description is: plummer block bearing housing for the main conveyor drive shaft. As per design, the item specification is: Size=UCP210; Material=Cast Iron; Finish=Painted; Seal=Standard. We require an item quantity of 30 units, and the item deadline is 2026-03-10 to maintain the assembly timeline.
+
+Best regards,
+Planning",SN-0010,Bearing Housing BH-10,"plummer block bearing housing for the main conveyor drive shaft. As per design, the item specification is: Size=UCP210; Material=Cast Iron; Finish=Painted; Seal=Standard. We require an item quantity of 30 units, and the item deadline is 2026-03-10 to maintain the assembly timeline.","Size=UCP210; Material=Cast Iron; Finish=Painted; Seal=Standard. We require an item quantity of 30 units, and the item deadline is 2026-03-10 to maintain the assembly timeline.",,2026-03-10
+"To: machining.cell@factory.example.com
+From: planning.officer+11@factory.example.com
+Subject: Chain Sprocket Batch SN-0011
+
+Hi team,
+
+This email covers Serial Number SN-0011 related to the item named ""Chain Sprocket CS-11"". The item description is: drive sprocket used in the roller chain transmission of the secondary conveyor. Please follow the item specification of: Pitch=1 inch; Teeth=24; Bore=30mm; Material=C45 Steel. The confirmed item quantity is 55 units, and the item deadline is 2026-03-11 as per the project Gantt chart.
+
+Thanks,
+Planning",machining.cell@factory.example.com,planning.officer+11@factory.example.com,Chain Sprocket Batch SN-0011,"Hi team,
+
+This email covers Serial Number SN-0011 related to the item named ""Chain Sprocket CS-11"". The item description is: drive sprocket used in the roller chain transmission of the secondary conveyor. Please follow the item specification of: Pitch=1 inch; Teeth=24; Bore=30mm; Material=C45 Steel. The confirmed item quantity is 55 units, and the item deadline is 2026-03-11 as per the project Gantt chart.
+
+Thanks,
+Planning",SN-0011,Chain Sprocket CS-11,"drive sprocket used in the roller chain transmission of the secondary conveyor. Please follow the item specification of: Pitch=1 inch; Teeth=24; Bore=30mm; Material=C45 Steel. The confirmed item quantity is 55 units, and the item deadline is 2026-03-11 as per the project Gantt chart.",,55,2026-03-11
+"To: procurement.support@factory.example.com
+From: planning.officer+12@factory.example.com
+Subject: Roller Chain Cutting SN-0012
+
+Team,
+
+We have created Serial Number SN-0012 for the item named ""Roller Chain RC-12"". The item description is: heavy-duty roller chain intended for the conveyor drive system. Kindly ensure the item specification is respected: Pitch=1 inch; Strand=Simplex; Length=30m; Standard=ISO. The required item quantity is 10 units (cut lengths), and the item deadline is 2026-03-12, so please coordinate with stores.
+
+Regards,
+Planning Office",procurement.support@factory.example.com,planning.officer+12@factory.example.com,Roller Chain Cutting SN-0012,"Team,
+
+We have created Serial Number SN-0012 for the item named ""Roller Chain RC-12"". The item description is: heavy-duty roller chain intended for the conveyor drive system. Kindly ensure the item specification is respected: Pitch=1 inch; Strand=Simplex; Length=30m; Standard=ISO. The required item quantity is 10 units (cut lengths), and the item deadline is 2026-03-12, so please coordinate with stores.
+
+Regards,
+Planning Office",SN-0012,Roller Chain RC-12,"heavy-duty roller chain intended for the conveyor drive system. Kindly ensure the item specification is respected: Pitch=1 inch; Strand=Simplex; Length=30m; Standard=ISO. The required item quantity is 10 units (cut lengths), and the item deadline is 2026-03-12, so please coordinate with stores.",,10,2026-03-12
+"To: electrical.shop@factory.example.com
+From: planning.officer+13@factory.example.com
+Subject: Junction Boxes for Field Wiring SN-0013
+
+Hello Electrical Team,
+
+This is to notify you about Serial Number SN-0013 for the item named ""Electrical Junction Box EJ-13"". The item description is: IP-rated junction box used for field wiring terminations along the process line. The approved item specification is: Size=200x200x120mm; Material=Polycarbonate; IP=IP65; Entries=6. Please arrange an item quantity of 80 units, keeping in mind that the item deadline is 2026-03-13.
+
+Thanks,
+Planning",electrical.shop@factory.example.com,planning.officer+13@factory.example.com,Junction Boxes for Field Wiring SN-0013,"Hello Electrical Team,
+
+This is to notify you about Serial Number SN-0013 for the item named ""Electrical Junction Box EJ-13"". The item description is: IP-rated junction box used for field wiring terminations along the process line. The approved item specification is: Size=200x200x120mm; Material=Polycarbonate; IP=IP65; Entries=6. Please arrange an item quantity of 80 units, keeping in mind that the item deadline is 2026-03-13.
+
+Thanks,
+Planning",SN-0013,Electrical Junction Box EJ-13,"IP-rated junction box used for field wiring terminations along the process line. The approved item specification is: Size=200x200x120mm; Material=Polycarbonate; IP=IP65; Entries=6. Please arrange an item quantity of 80 units, keeping in mind that the item deadline is 2026-03-13.","Size=200x200x120mm; Material=Polycarbonate; IP=IP65; Entries=6. Please arrange an item quantity of 80 units, keeping in mind that the item deadline is 2026-03-13.",,2026-03-13
+"To: sensors.cell@factory.example.com
+From: planning.officer+14@factory.example.com
+Subject: Inductive Proximity Sensors SN-0014
+
+Hi team,
+
+For the new conveyor positions we have Serial Number SN-0014 covering the item named ""Inductive Proximity Sensor IPS-14"". The item description is: metal-sensing inductive sensor used for position feedback and counting. The required item specification is: Type=M18; Range=8mm; Output=NPN NO; Voltage=10-30VDC. Please supply an item quantity of 90 units, noting that the item deadline is 2026-03-14.
+
+Regards,
+Planning Dept.",sensors.cell@factory.example.com,planning.officer+14@factory.example.com,Inductive Proximity Sensors SN-0014,"Hi team,
+
+For the new conveyor positions we have Serial Number SN-0014 covering the item named ""Inductive Proximity Sensor IPS-14"". The item description is: metal-sensing inductive sensor used for position feedback and counting. The required item specification is: Type=M18; Range=8mm; Output=NPN NO; Voltage=10-30VDC. Please supply an item quantity of 90 units, noting that the item deadline is 2026-03-14.
+
+Regards,
+Planning Dept.",SN-0014,Inductive Proximity Sensor IPS-14,"metal-sensing inductive sensor used for position feedback and counting. The required item specification is: Type=M18; Range=8mm; Output=NPN NO; Voltage=10-30VDC. Please supply an item quantity of 90 units, noting that the item deadline is 2026-03-14.","Type=M18; Range=8mm; Output=NPN NO; Voltage=10-30VDC. Please supply an item quantity of 90 units, noting that the item deadline is 2026-03-14.",,2026-03-14
+"To: harness.shop@factory.example.com
+From: planning.officer+15@factory.example.com
+Subject: Cable Harness Sets SN-0015
+
+Hi,
+
+Kindly plan Serial Number SN-0015 for the item named ""Cable Harness CH-15"". The item description is: pre-terminated cable harness used for internal control panel wiring. The agreed item specification is: Cores=24; Length=6m; Conductor=1.5sqmm; Jacket=PVC. We will need an item quantity of 45 units, and the item deadline is 2026-03-15, which should align with panel assembly.
+
+Best,
+Planning",harness.shop@factory.example.com,planning.officer+15@factory.example.com,Cable Harness Sets SN-0015,"Hi,
+
+Kindly plan Serial Number SN-0015 for the item named ""Cable Harness CH-15"". The item description is: pre-terminated cable harness used for internal control panel wiring. The agreed item specification is: Cores=24; Length=6m; Conductor=1.5sqmm; Jacket=PVC. We will need an item quantity of 45 units, and the item deadline is 2026-03-15, which should align with panel assembly.
+
+Best,
+Planning",SN-0015,Cable Harness CH-15,"pre-terminated cable harness used for internal control panel wiring. The agreed item specification is: Cores=24; Length=6m; Conductor=1.5sqmm; Jacket=PVC. We will need an item quantity of 45 units, and the item deadline is 2026-03-15, which should align with panel assembly.","Cores=24; Length=6m; Conductor=1.5sqmm; Jacket=PVC. We will need an item quantity of 45 units, and the item deadline is 2026-03-15, which should align with panel assembly.",,2026-03-15
+"To: electrical.shop@factory.example.com
+From: planning.officer+16@factory.example.com
+Subject: Power Distribution Boards SN-0016
+
+Dear Team,
+
+We have opened Serial Number SN-0016 for the item named ""Power Distribution Board PDB-16"". The item description is: floor-mounted distribution board for plant utility loads. The item specification is as follows: Incomer=250A MCCB; Outgoing=16 Ways; Voltage=415VAC; IP=IP42. Please manufacture an item quantity of 4 units, ensuring that the item deadline is 2026-03-16.
+
+Regards,
+Planning Office",electrical.shop@factory.example.com,planning.officer+16@factory.example.com,Power Distribution Boards SN-0016,"Dear Team,
+
+We have opened Serial Number SN-0016 for the item named ""Power Distribution Board PDB-16"". The item description is: floor-mounted distribution board for plant utility loads. The item specification is as follows: Incomer=250A MCCB; Outgoing=16 Ways; Voltage=415VAC; IP=IP42. Please manufacture an item quantity of 4 units, ensuring that the item deadline is 2026-03-16.
+
+Regards,
+Planning Office",SN-0016,Power Distribution Board PDB-16,"floor-mounted distribution board for plant utility loads. The item specification is as follows: Incomer=250A MCCB; Outgoing=16 Ways; Voltage=415VAC; IP=IP42. Please manufacture an item quantity of 4 units, ensuring that the item deadline is 2026-03-16.",,,2026-03-16
+"To: instrumentation.cell@factory.example.com
+From: planning.officer+17@factory.example.com
+Subject: Electromagnetic Flow Meters SN-0017
+
+Hello,
+
+This note confirms Serial Number SN-0017 for the item named ""Electromagnetic Flow Meter FM-17"". The item description is: inline flow meter used for the water dosing system in the process area. Please stick to the item specification: Line Size=DN50; Range=0.5-25m3/h; Output=4-20mA; Supply=230VAC. The planned item quantity is 7 units, and the item deadline is 2026-03-17.
+
+Thanks,
+Planning",instrumentation.cell@factory.example.com,planning.officer+17@factory.example.com,Electromagnetic Flow Meters SN-0017,"Hello,
+
+This note confirms Serial Number SN-0017 for the item named ""Electromagnetic Flow Meter FM-17"". The item description is: inline flow meter used for the water dosing system in the process area. Please stick to the item specification: Line Size=DN50; Range=0.5-25m3/h; Output=4-20mA; Supply=230VAC. The planned item quantity is 7 units, and the item deadline is 2026-03-17.
+
+Thanks,
+Planning",SN-0017,Electromagnetic Flow Meter FM-17,"inline flow meter used for the water dosing system in the process area. Please stick to the item specification: Line Size=DN50; Range=0.5-25m3/h; Output=4-20mA; Supply=230VAC. The planned item quantity is 7 units, and the item deadline is 2026-03-17.",,7,2026-03-17
+"To: instrumentation.cell@factory.example.com
+From: planning.officer+18@factory.example.com
+Subject: Pressure Transmitters SN-0018
+
+Hi instrumentation team,
+
+We are raising Serial Number SN-0018 for the item named ""Pressure Transmitter PT-18"". The item description is: transmitter for monitoring line pressure in the utility pipelines. The specified item specification is: Range=0-16bar; Output=4-20mA; Process=1/2 inch NPT; Accuracy=0.5%FS. An item quantity of 22 units is required, and the item deadline is 2026-03-18 as per the utility schedule.
+
+Best regards,
+Planning",instrumentation.cell@factory.example.com,planning.officer+18@factory.example.com,Pressure Transmitters SN-0018,"Hi instrumentation team,
+
+We are raising Serial Number SN-0018 for the item named ""Pressure Transmitter PT-18"". The item description is: transmitter for monitoring line pressure in the utility pipelines. The specified item specification is: Range=0-16bar; Output=4-20mA; Process=1/2 inch NPT; Accuracy=0.5%FS. An item quantity of 22 units is required, and the item deadline is 2026-03-18 as per the utility schedule.
+
+Best regards,
+Planning",SN-0018,Pressure Transmitter PT-18,"transmitter for monitoring line pressure in the utility pipelines. The specified item specification is: Range=0-16bar; Output=4-20mA; Process=1/2 inch NPT; Accuracy=0.5%FS. An item quantity of 22 units is required, and the item deadline is 2026-03-18 as per the utility schedule.","Range=0-16bar; Output=4-20mA; Process=1/2 inch NPT; Accuracy=0.5%FS. An item quantity of 22 units is required, and the item deadline is 2026-03-18 as per the utility schedule.",,2026-03-18
+"To: instrumentation.cell@factory.example.com
+From: planning.officer+19@factory.example.com
+Subject: Level Sensors for Tanks SN-0019
+
+Team,
+
+Please note Serial Number SN-0019 for the item named ""Level Sensor LS-19"". The item description is: vertical float level sensor used in storage tanks for high/low indication. The agreed item specification is: Mounting=Top; Contacts=2; Material=SS304; Length=1200mm. We need an item quantity of 28 units, and the item deadline is 2026-03-19.
+
+Regards,
+Planning",instrumentation.cell@factory.example.com,planning.officer+19@factory.example.com,Level Sensors for Tanks SN-0019,"Team,
+
+Please note Serial Number SN-0019 for the item named ""Level Sensor LS-19"". The item description is: vertical float level sensor used in storage tanks for high/low indication. The agreed item specification is: Mounting=Top; Contacts=2; Material=SS304; Length=1200mm. We need an item quantity of 28 units, and the item deadline is 2026-03-19.
+
+Regards,
+Planning",SN-0019,Level Sensor LS-19,"vertical float level sensor used in storage tanks for high/low indication. The agreed item specification is: Mounting=Top; Contacts=2; Material=SS304; Length=1200mm. We need an item quantity of 28 units, and the item deadline is 2026-03-19.","Mounting=Top; Contacts=2; Material=SS304; Length=1200mm. We need an item quantity of 28 units, and the item deadline is 2026-03-19.",,2026-03-19
+"To: fabrication.shop@factory.example.com
+From: planning.officer+20@factory.example.com
+Subject: Hopper Assemblies SN-0020
+
+Hi Fabrication,
+
+Under Serial Number SN-0020 we have the item named ""Hopper Assembly HA-20"". The item description is: mild steel hopper used for granular material feeding into screw conveyors. Please ensure the item specification is: Capacity=500L; Wall=3mm; Finish=Epoxy Painted; Inlet=300mm. The required item quantity is 5 units, and the item deadline is 2026-03-20.
+
+Thanks,
+Planning",fabrication.shop@factory.example.com,planning.officer+20@factory.example.com,Hopper Assemblies SN-0020,"Hi Fabrication,
+
+Under Serial Number SN-0020 we have the item named ""Hopper Assembly HA-20"". The item description is: mild steel hopper used for granular material feeding into screw conveyors. Please ensure the item specification is: Capacity=500L; Wall=3mm; Finish=Epoxy Painted; Inlet=300mm. The required item quantity is 5 units, and the item deadline is 2026-03-20.
+
+Thanks,
+Planning",SN-0020,Hopper Assembly HA-20,"mild steel hopper used for granular material feeding into screw conveyors. Please ensure the item specification is: Capacity=500L; Wall=3mm; Finish=Epoxy Painted; Inlet=300mm. The required item quantity is 5 units, and the item deadline is 2026-03-20.","Capacity=500L; Wall=3mm; Finish=Epoxy Painted; Inlet=300mm. The required item quantity is 5 units, and the item deadline is 2026-03-20.",5,2026-03-20
+"To: machining.cell@factory.example.com
+From: planning.officer+21@factory.example.com
+Subject: Feeder Screws SN-0021
+
+Hello team,
+
+This communication is for Serial Number SN-0021 associated with the item named ""Feeder Screw FS-21"". The item description is: screw feeder used for controlled discharge of material from the hopper. The precise item specification is: Diameter=150mm; Pitch=150mm; Length=2200mm; Material=SS304. Please produce an item quantity of 8 units, and remember that the item deadline is 2026-03-21.
+
+Regards,
+Planning Dept.",machining.cell@factory.example.com,planning.officer+21@factory.example.com,Feeder Screws SN-0021,"Hello team,
+
+This communication is for Serial Number SN-0021 associated with the item named ""Feeder Screw FS-21"". The item description is: screw feeder used for controlled discharge of material from the hopper. The precise item specification is: Diameter=150mm; Pitch=150mm; Length=2200mm; Material=SS304. Please produce an item quantity of 8 units, and remember that the item deadline is 2026-03-21.
+
+Regards,
+Planning Dept.",SN-0021,Feeder Screw FS-21,"screw feeder used for controlled discharge of material from the hopper. The precise item specification is: Diameter=150mm; Pitch=150mm; Length=2200mm; Material=SS304. Please produce an item quantity of 8 units, and remember that the item deadline is 2026-03-21.","Diameter=150mm; Pitch=150mm; Length=2200mm; Material=SS304. Please produce an item quantity of 8 units, and remember that the item deadline is 2026-03-21.",,2026-03-21
+"To: fabrication.shop@factory.example.com
+From: planning.officer+22@factory.example.com
+Subject: Support Frames SN-0022
+
+Hi,
+
+We are scheduling Serial Number SN-0022 for the item named ""Support Frame SF-22"". The item description is: structural frame used for mounting process equipment skids. The specified item specification is: Material=MS; Section=50x50x5mm; Height=1800mm; Finish=Primer+Paint. The target item quantity is 12 units, and the item deadline is 2026-03-22.
+
+Best,
+Planning",fabrication.shop@factory.example.com,planning.officer+22@factory.example.com,Support Frames SN-0022,"Hi,
+
+We are scheduling Serial Number SN-0022 for the item named ""Support Frame SF-22"". The item description is: structural frame used for mounting process equipment skids. The specified item specification is: Material=MS; Section=50x50x5mm; Height=1800mm; Finish=Primer+Paint. The target item quantity is 12 units, and the item deadline is 2026-03-22.
+
+Best,
+Planning",SN-0022,Support Frame SF-22,"structural frame used for mounting process equipment skids. The specified item specification is: Material=MS; Section=50x50x5mm; Height=1800mm; Finish=Primer+Paint. The target item quantity is 12 units, and the item deadline is 2026-03-22.","Material=MS; Section=50x50x5mm; Height=1800mm; Finish=Primer+Paint. The target item quantity is 12 units, and the item deadline is 2026-03-22.",12,2026-03-22
+"To: fabrication.shop@factory.example.com
+From: planning.officer+23@factory.example.com
+Subject: Safety Guard Panels SN-0023
+
+Dear Team,
+
+For safety compliance we have Serial Number SN-0023 for the item named ""Safety Guard Panel GP-23"". The item description is: mesh guard panels used around rotating equipment. Please apply the following item specification: Mesh=40x40mm; Frame=25x25x3mm; Height=2000mm; Color=Yellow. We require an item quantity of 36 units, and the item deadline is 2026-03-23.
+
+Regards,
+Planning Office",fabrication.shop@factory.example.com,planning.officer+23@factory.example.com,Safety Guard Panels SN-0023,"Dear Team,
+
+For safety compliance we have Serial Number SN-0023 for the item named ""Safety Guard Panel GP-23"". The item description is: mesh guard panels used around rotating equipment. Please apply the following item specification: Mesh=40x40mm; Frame=25x25x3mm; Height=2000mm; Color=Yellow. We require an item quantity of 36 units, and the item deadline is 2026-03-23.
+
+Regards,
+Planning Office",SN-0023,Safety Guard Panel GP-23,"mesh guard panels used around rotating equipment. Please apply the following item specification: Mesh=40x40mm; Frame=25x25x3mm; Height=2000mm; Color=Yellow. We require an item quantity of 36 units, and the item deadline is 2026-03-23.",,,2026-03-23
+"To: printing.cell@factory.example.com
+From: planning.officer+24@factory.example.com
+Subject: Label Printers SN-0024
+
+Hello Printing Team,
+
+This mail refers to Serial Number SN-0024 for the item named ""Label Printer LP-24"". The item description is: thermal label printer used for carton identification labels on the line. The relevant item specification is: Resolution=300dpi; Width=108mm; Interface=USB+Ethernet; Supply=230VAC. Please plan an item quantity of 11 units, and note that the item deadline is 2026-03-24.
+
+Thanks,
+Planning",printing.cell@factory.example.com,planning.officer+24@factory.example.com,Label Printers SN-0024,"Hello Printing Team,
+
+This mail refers to Serial Number SN-0024 for the item named ""Label Printer LP-24"". The item description is: thermal label printer used for carton identification labels on the line. The relevant item specification is: Resolution=300dpi; Width=108mm; Interface=USB+Ethernet; Supply=230VAC. Please plan an item quantity of 11 units, and note that the item deadline is 2026-03-24.
+
+Thanks,
+Planning",SN-0024,Label Printer LP-24,"thermal label printer used for carton identification labels on the line. The relevant item specification is: Resolution=300dpi; Width=108mm; Interface=USB+Ethernet; Supply=230VAC. Please plan an item quantity of 11 units, and note that the item deadline is 2026-03-24.","Resolution=300dpi; Width=108mm; Interface=USB+Ethernet; Supply=230VAC. Please plan an item quantity of 11 units, and note that the item deadline is 2026-03-24.",,2026-03-24
+"To: printing.cell@factory.example.com
+From: planning.officer+25@factory.example.com
+Subject: Printhead Assemblies SN-0025
+
+Hi team,
+
+We have created Serial Number SN-0025 for the item named ""Printhead Assembly PA-25"". The item description is: replacement printhead unit for the installed thermal printers. The mandatory item specification is: Resolution=300dpi; Width=4 inch; Connector=Standard OEM; Life=50km. The required item quantity is 27 units, and the item deadline is 2026-03-25.
+
+Regards,
+Planning",printing.cell@factory.example.com,planning.officer+25@factory.example.com,Printhead Assemblies SN-0025,"Hi team,
+
+We have created Serial Number SN-0025 for the item named ""Printhead Assembly PA-25"". The item description is: replacement printhead unit for the installed thermal printers. The mandatory item specification is: Resolution=300dpi; Width=4 inch; Connector=Standard OEM; Life=50km. The required item quantity is 27 units, and the item deadline is 2026-03-25.
+
+Regards,
+Planning",SN-0025,Printhead Assembly PA-25,"replacement printhead unit for the installed thermal printers. The mandatory item specification is: Resolution=300dpi; Width=4 inch; Connector=Standard OEM; Life=50km. The required item quantity is 27 units, and the item deadline is 2026-03-25.","Resolution=300dpi; Width=4 inch; Connector=Standard OEM; Life=50km. The required item quantity is 27 units, and the item deadline is 2026-03-25.",27,2026-03-25
+"To: packing.materials@factory.example.com
+From: planning.officer+26@factory.example.com
+Subject: Wooden Pallets SN-0026
+
+Hi,
+
+Please register Serial Number SN-0026 for the item named ""Wooden Pallet WP-26"". The item description is: standard wooden pallet used for finished goods storage in the warehouse. The approved item specification is: Size=1200x1000mm; Load=1000kg; Deck=Closed; Treatment=Heat Treated. We need an item quantity of 140 units, and the item deadline is 2026-03-26.
+
+Best regards,
+Planning",packing.materials@factory.example.com,planning.officer+26@factory.example.com,Wooden Pallets SN-0026,"Hi,
+
+Please register Serial Number SN-0026 for the item named ""Wooden Pallet WP-26"". The item description is: standard wooden pallet used for finished goods storage in the warehouse. The approved item specification is: Size=1200x1000mm; Load=1000kg; Deck=Closed; Treatment=Heat Treated. We need an item quantity of 140 units, and the item deadline is 2026-03-26.
+
+Best regards,
+Planning",SN-0026,Wooden Pallet WP-26,"standard wooden pallet used for finished goods storage in the warehouse. The approved item specification is: Size=1200x1000mm; Load=1000kg; Deck=Closed; Treatment=Heat Treated. We need an item quantity of 140 units, and the item deadline is 2026-03-26.","Size=1200x1000mm; Load=1000kg; Deck=Closed; Treatment=Heat Treated. We need an item quantity of 140 units, and the item deadline is 2026-03-26.",,2026-03-26
+"To: packing.materials@factory.example.com
+From: planning.officer+27@factory.example.com
+Subject: Shrink Film Rolls SN-0027
+
+Hello,
+
+This is for Serial Number SN-0027 assigned to the item named ""Shrink Film Roll SF-27"". The item description is: polyolefin shrink film used for bundle wrapping of cartons. The item specification that must be followed is: Width=450mm; Thickness=20mic; Length=1000m; Color=Transparent. Please arrange an item quantity of 60 units, with an item deadline of 2026-03-27.
+
+Thanks,
+Planning Dept.",packing.materials@factory.example.com,planning.officer+27@factory.example.com,Shrink Film Rolls SN-0027,"Hello,
+
+This is for Serial Number SN-0027 assigned to the item named ""Shrink Film Roll SF-27"". The item description is: polyolefin shrink film used for bundle wrapping of cartons. The item specification that must be followed is: Width=450mm; Thickness=20mic; Length=1000m; Color=Transparent. Please arrange an item quantity of 60 units, with an item deadline of 2026-03-27.
+
+Thanks,
+Planning Dept.",SN-0027,Shrink Film Roll SF-27,"polyolefin shrink film used for bundle wrapping of cartons. The item specification that must be followed is: Width=450mm; Thickness=20mic; Length=1000m; Color=Transparent. Please arrange an item quantity of 60 units, with an item deadline of 2026-03-27.",,,
+"To: packing.materials@factory.example.com
+From: planning.officer+28@factory.example.com
+Subject: Corner Protectors SN-0028
+
+Team,
+
+We are placing Serial Number SN-0028 for the item named ""Corner Protector CP-28"". The item description is: cardboard corner protectors used on palletized loads to prevent edge damage. The required item specification is: Length=1200mm; Leg=60x60mm; Thickness=4mm; Color=Brown. The planned item quantity is 250 units, and the item deadline is 2026-03-28.
+
+Regards,
+Planning",packing.materials@factory.example.com,planning.officer+28@factory.example.com,Corner Protectors SN-0028,"Team,
+
+We are placing Serial Number SN-0028 for the item named ""Corner Protector CP-28"". The item description is: cardboard corner protectors used on palletized loads to prevent edge damage. The required item specification is: Length=1200mm; Leg=60x60mm; Thickness=4mm; Color=Brown. The planned item quantity is 250 units, and the item deadline is 2026-03-28.
+
+Regards,
+Planning",SN-0028,Corner Protector CP-28,"cardboard corner protectors used on palletized loads to prevent edge damage. The required item specification is: Length=1200mm; Leg=60x60mm; Thickness=4mm; Color=Brown. The planned item quantity is 250 units, and the item deadline is 2026-03-28.","Length=1200mm; Leg=60x60mm; Thickness=4mm; Color=Brown. The planned item quantity is 250 units, and the item deadline is 2026-03-28.",250,2026-03-28
+"To: packing.materials@factory.example.com
+From: planning.officer+29@factory.example.com
+Subject: PP Strapping Rolls SN-0029
+
+Hi,
+
+Serial Number SN-0029 corresponds to the item named ""PP Strapping Roll SR-29"". The item description is: polypropylene strapping used for carton bundling and pallet securing. The item specification is: Width=12mm; Thickness=0.8mm; Length=2000m; Color=White. We require an item quantity of 90 units, and the item deadline is 2026-03-29.
+
+Thanks,
+Planning",packing.materials@factory.example.com,planning.officer+29@factory.example.com,PP Strapping Rolls SN-0029,"Hi,
+
+Serial Number SN-0029 corresponds to the item named ""PP Strapping Roll SR-29"". The item description is: polypropylene strapping used for carton bundling and pallet securing. The item specification is: Width=12mm; Thickness=0.8mm; Length=2000m; Color=White. We require an item quantity of 90 units, and the item deadline is 2026-03-29.
+
+Thanks,
+Planning",SN-0029,PP Strapping Roll SR-29,"polypropylene strapping used for carton bundling and pallet securing. The item specification is: Width=12mm; Thickness=0.8mm; Length=2000m; Color=White. We require an item quantity of 90 units, and the item deadline is 2026-03-29.","Width=12mm; Thickness=0.8mm; Length=2000m; Color=White. We require an item quantity of 90 units, and the item deadline is 2026-03-29.",,2026-03-29
+"To: packing.tools@factory.example.com
+From: planning.officer+30@factory.example.com
+Subject: Strapping Tools SN-0030
+
+Hello Tools Team,
+
+We have opened Serial Number SN-0030 for the item named ""Strapping Tool ST-30"". The item description is: manual tensioner and sealer used for PP strap tightening. The confirmed item specification is: Strap Width=12-16mm; Type=Manual; Body=Steel; Grip=Ergonomic. The item quantity required is 35 units, and the item deadline is 2026-03-30.
+
+Regards,
+Planning",packing.tools@factory.example.com,planning.officer+30@factory.example.com,Strapping Tools SN-0030,"Hello Tools Team,
+
+We have opened Serial Number SN-0030 for the item named ""Strapping Tool ST-30"". The item description is: manual tensioner and sealer used for PP strap tightening. The confirmed item specification is: Strap Width=12-16mm; Type=Manual; Body=Steel; Grip=Ergonomic. The item quantity required is 35 units, and the item deadline is 2026-03-30.
+
+Regards,
+Planning",SN-0030,Strapping Tool ST-30,"manual tensioner and sealer used for PP strap tightening. The confirmed item specification is: Strap Width=12-16mm; Type=Manual; Body=Steel; Grip=Ergonomic. The item quantity required is 35 units, and the item deadline is 2026-03-30.","Strap Width=12-16mm; Type=Manual; Body=Steel; Grip=Ergonomic. The item quantity required is 35 units, and the item deadline is 2026-03-30.",,2026-03-30
+"To: automation.design@factory.example.com
+From: planning.officer+31@factory.example.com
+Subject: Carton Erector Frames SN-0031
+
+Hi team,
+
+Serial Number SN-0031 is for the item named ""Carton Erector Frame CEF-31"". The item description is: mechanical frame for the automatic carton erecting machine. The item specification is: Material=MS; Base=1200x800mm; Height=1600mm; Finish=Powder Coat. Please produce an item quantity of 6 units, with an item deadline of 2026-03-31.
+
+Best,
+Planning",automation.design@factory.example.com,planning.officer+31@factory.example.com,Carton Erector Frames SN-0031,"Hi team,
+
+Serial Number SN-0031 is for the item named ""Carton Erector Frame CEF-31"". The item description is: mechanical frame for the automatic carton erecting machine. The item specification is: Material=MS; Base=1200x800mm; Height=1600mm; Finish=Powder Coat. Please produce an item quantity of 6 units, with an item deadline of 2026-03-31.
+
+Best,
+Planning",SN-0031,Carton Erector Frame CEF-31,"mechanical frame for the automatic carton erecting machine. The item specification is: Material=MS; Base=1200x800mm; Height=1600mm; Finish=Powder Coat. Please produce an item quantity of 6 units, with an item deadline of 2026-03-31.","Material=MS; Base=1200x800mm; Height=1600mm; Finish=Powder Coat. Please produce an item quantity of 6 units, with an item deadline of 2026-03-31.",,
+"To: robotics.cell@factory.example.com
+From: planning.officer+32@factory.example.com
+Subject: Vacuum Suction Cups SN-0032
+
+Hello,
+
+We are raising Serial Number SN-0032 for the item named ""Vacuum Suction Cup VSC-32"". The item description is: suction cup for the pick-and-place robotic arm handling cartons. The item specification is: Diameter=60mm; Material=NBR; Mount=G1/4 inch; Hardness=60 Shore. The required item quantity is 160 units, and the item deadline is 2026-04-01.
+
+Regards,
+Planning Dept.",robotics.cell@factory.example.com,planning.officer+32@factory.example.com,Vacuum Suction Cups SN-0032,"Hello,
+
+We are raising Serial Number SN-0032 for the item named ""Vacuum Suction Cup VSC-32"". The item description is: suction cup for the pick-and-place robotic arm handling cartons. The item specification is: Diameter=60mm; Material=NBR; Mount=G1/4 inch; Hardness=60 Shore. The required item quantity is 160 units, and the item deadline is 2026-04-01.
+
+Regards,
+Planning Dept.",SN-0032,Vacuum Suction Cup VSC-32,"suction cup for the pick-and-place robotic arm handling cartons. The item specification is: Diameter=60mm; Material=NBR; Mount=G1/4 inch; Hardness=60 Shore. The required item quantity is 160 units, and the item deadline is 2026-04-01.","Diameter=60mm; Material=NBR; Mount=G1/4 inch; Hardness=60 Shore. The required item quantity is 160 units, and the item deadline is 2026-04-01.",160,2026-04-01
+"To: robotics.cell@factory.example.com
+From: planning.officer+33@factory.example.com
+Subject: Vacuum Generators SN-0033
+
+Hi Robotics Team,
+
+Serial Number SN-0033 refers to the item named ""Vacuum Generator VG-33"". The item description is: venturi-type vacuum generator used in the carton handling system. The item specification is: Supply=6bar; Vacuum=-85kPa; Port=G1/4 inch; Body=Aluminum. Please plan an item quantity of 32 units, and note that the item deadline is 2026-04-02.
+
+Thanks,
+Planning",robotics.cell@factory.example.com,planning.officer+33@factory.example.com,Vacuum Generators SN-0033,"Hi Robotics Team,
+
+Serial Number SN-0033 refers to the item named ""Vacuum Generator VG-33"". The item description is: venturi-type vacuum generator used in the carton handling system. The item specification is: Supply=6bar; Vacuum=-85kPa; Port=G1/4 inch; Body=Aluminum. Please plan an item quantity of 32 units, and note that the item deadline is 2026-04-02.
+
+Thanks,
+Planning",SN-0033,Vacuum Generator VG-33,"venturi-type vacuum generator used in the carton handling system. The item specification is: Supply=6bar; Vacuum=-85kPa; Port=G1/4 inch; Body=Aluminum. Please plan an item quantity of 32 units, and note that the item deadline is 2026-04-02.","Supply=6bar; Vacuum=-85kPa; Port=G1/4 inch; Body=Aluminum. Please plan an item quantity of 32 units, and note that the item deadline is 2026-04-02.",,2026-04-02
+"To: pneumatics.cell@factory.example.com
+From: planning.officer+34@factory.example.com
+Subject: Air Filter Regulators SN-0034
+
+Team,
+
+We have created Serial Number SN-0034 for the item named ""Air Filter Regulator AFR-34"". The item description is: filter-regulator unit used on the plant compressed air line. The specified item specification is: Port Size=1/2 inch; Pressure=0-10bar; Filter=40mic; Bowl=Polycarbonate. The required item quantity is 48 units, and the item deadline is 2026-04-03.
+
+Regards,
+Planning",pneumatics.cell@factory.example.com,planning.officer+34@factory.example.com,Air Filter Regulators SN-0034,"Team,
+
+We have created Serial Number SN-0034 for the item named ""Air Filter Regulator AFR-34"". The item description is: filter-regulator unit used on the plant compressed air line. The specified item specification is: Port Size=1/2 inch; Pressure=0-10bar; Filter=40mic; Bowl=Polycarbonate. The required item quantity is 48 units, and the item deadline is 2026-04-03.
+
+Regards,
+Planning",SN-0034,Air Filter Regulator AFR-34,"filter-regulator unit used on the plant compressed air line. The specified item specification is: Port Size=1/2 inch; Pressure=0-10bar; Filter=40mic; Bowl=Polycarbonate. The required item quantity is 48 units, and the item deadline is 2026-04-03.","Port Size=1/2 inch; Pressure=0-10bar; Filter=40mic; Bowl=Polycarbonate. The required item quantity is 48 units, and the item deadline is 2026-04-03.",48,2026-04-03
+"To: pneumatics.cell@factory.example.com
+From: planning.officer+35@factory.example.com
+Subject: Air Lubricators SN-0035
+
+Hi,
+
+Serial Number SN-0035 has been assigned to the item named ""Air Lubricator AL-35"". The item description is: inline lubricator used for pneumatic tool supply. The item specification is: Port Size=1/2 inch; Capacity=150ml; Material=Aluminum+Polycarbonate. We need an item quantity of 42 units, and the item deadline is 2026-04-04.
+
+Best,
+Planning",pneumatics.cell@factory.example.com,planning.officer+35@factory.example.com,Air Lubricators SN-0035,"Hi,
+
+Serial Number SN-0035 has been assigned to the item named ""Air Lubricator AL-35"". The item description is: inline lubricator used for pneumatic tool supply. The item specification is: Port Size=1/2 inch; Capacity=150ml; Material=Aluminum+Polycarbonate. We need an item quantity of 42 units, and the item deadline is 2026-04-04.
+
+Best,
+Planning",SN-0035,Air Lubricator AL-35,"inline lubricator used for pneumatic tool supply. The item specification is: Port Size=1/2 inch; Capacity=150ml; Material=Aluminum+Polycarbonate. We need an item quantity of 42 units, and the item deadline is 2026-04-04.","Port Size=1/2 inch; Capacity=150ml; Material=Aluminum+Polycarbonate. We need an item quantity of 42 units, and the item deadline is 2026-04-04.",,2026-04-04
+"To: powertrain.shop@factory.example.com
+From: planning.officer+36@factory.example.com
+Subject: Helical Gearboxes SN-0036
+
+Hello team,
+
+Please schedule Serial Number SN-0036 for the item named ""Helical Gearbox HG-36"". The item description is: inline helical gearbox used for conveyor drive reduction. The confirmed item specification is: Ratio=20:1; Power=3kW; Mounting=Foot; Service Factor=1.4. The requested item quantity is 14 units, and the item deadline is 2026-04-05.
+
+Regards,
+Planning",powertrain.shop@factory.example.com,planning.officer+36@factory.example.com,Helical Gearboxes SN-0036,"Hello team,
+
+Please schedule Serial Number SN-0036 for the item named ""Helical Gearbox HG-36"". The item description is: inline helical gearbox used for conveyor drive reduction. The confirmed item specification is: Ratio=20:1; Power=3kW; Mounting=Foot; Service Factor=1.4. The requested item quantity is 14 units, and the item deadline is 2026-04-05.
+
+Regards,
+Planning",SN-0036,Helical Gearbox HG-36,"inline helical gearbox used for conveyor drive reduction. The confirmed item specification is: Ratio=20:1; Power=3kW; Mounting=Foot; Service Factor=1.4. The requested item quantity is 14 units, and the item deadline is 2026-04-05.","Ratio=20:1; Power=3kW; Mounting=Foot; Service Factor=1.4. The requested item quantity is 14 units, and the item deadline is 2026-04-05.",14,2026-04-05
+"To: powertrain.shop@factory.example.com
+From: planning.officer+37@factory.example.com
+Subject: Flexible Couplings SN-0037
+
+Hi Powertrain Team,
+
+Serial Number SN-0037 corresponds to the item named ""Flexible Coupling FC-37"". The item description is: flexible coupling installed between motor and gearbox shaft. The item specification is: Type=Jaw; Bore1=28mm; Bore2=35mm; Insert=PU. Please arrange an item quantity of 26 units, and remember the item deadline is 2026-04-06.
+
+Thanks,
+Planning",powertrain.shop@factory.example.com,planning.officer+37@factory.example.com,Flexible Couplings SN-0037,"Hi Powertrain Team,
+
+Serial Number SN-0037 corresponds to the item named ""Flexible Coupling FC-37"". The item description is: flexible coupling installed between motor and gearbox shaft. The item specification is: Type=Jaw; Bore1=28mm; Bore2=35mm; Insert=PU. Please arrange an item quantity of 26 units, and remember the item deadline is 2026-04-06.
+
+Thanks,
+Planning",SN-0037,Flexible Coupling FC-37,"flexible coupling installed between motor and gearbox shaft. The item specification is: Type=Jaw; Bore1=28mm; Bore2=35mm; Insert=PU. Please arrange an item quantity of 26 units, and remember the item deadline is 2026-04-06.","Type=Jaw; Bore1=28mm; Bore2=35mm; Insert=PU. Please arrange an item quantity of 26 units, and remember the item deadline is 2026-04-06.",,2026-04-06
+"To: conveyor.shop@factory.example.com
+From: planning.officer+38@factory.example.com
+Subject: Conveyor Rollers SN-0038
+
+Dear Team,
+
+We have opened Serial Number SN-0038 for the item named ""Conveyor Roller CR-38"". The item description is: gravity conveyor roller for idle roller sections on the line. The approved item specification is: Diameter=50mm; Length=600mm; Material=MS Zinc Plated; Bearing=6201. The required item quantity is 210 units, and the item deadline is 2026-04-07.
+
+Regards,
+Planning Office",conveyor.shop@factory.example.com,planning.officer+38@factory.example.com,Conveyor Rollers SN-0038,"Dear Team,
+
+We have opened Serial Number SN-0038 for the item named ""Conveyor Roller CR-38"". The item description is: gravity conveyor roller for idle roller sections on the line. The approved item specification is: Diameter=50mm; Length=600mm; Material=MS Zinc Plated; Bearing=6201. The required item quantity is 210 units, and the item deadline is 2026-04-07.
+
+Regards,
+Planning Office",SN-0038,Conveyor Roller CR-38,"gravity conveyor roller for idle roller sections on the line. The approved item specification is: Diameter=50mm; Length=600mm; Material=MS Zinc Plated; Bearing=6201. The required item quantity is 210 units, and the item deadline is 2026-04-07.","Diameter=50mm; Length=600mm; Material=MS Zinc Plated; Bearing=6201. The required item quantity is 210 units, and the item deadline is 2026-04-07.",210,2026-04-07
+"To: conveyor.shop@factory.example.com
+From: planning.officer+39@factory.example.com
+Subject: Side Guide Rails SN-0039
+
+Hi,
+
+Serial Number SN-0039 is related to the item named ""Side Guide Rail SGR-39"". The item description is: adjustable side guide rail for bottle conveyor sections. The item specification is: Material=UHMWPE; Length=3000mm; Height=80mm; Color=Green. The planned item quantity is 70 units, and the item deadline is 2026-04-08.
+
+Best,
+Planning",conveyor.shop@factory.example.com,planning.officer+39@factory.example.com,Side Guide Rails SN-0039,"Hi,
+
+Serial Number SN-0039 is related to the item named ""Side Guide Rail SGR-39"". The item description is: adjustable side guide rail for bottle conveyor sections. The item specification is: Material=UHMWPE; Length=3000mm; Height=80mm; Color=Green. The planned item quantity is 70 units, and the item deadline is 2026-04-08.
+
+Best,
+Planning",SN-0039,Side Guide Rail SGR-39,"adjustable side guide rail for bottle conveyor sections. The item specification is: Material=UHMWPE; Length=3000mm; Height=80mm; Color=Green. The planned item quantity is 70 units, and the item deadline is 2026-04-08.","Material=UHMWPE; Length=3000mm; Height=80mm; Color=Green. The planned item quantity is 70 units, and the item deadline is 2026-04-08.",70,2026-04-08
+"To: conveyor.shop@factory.example.com
+From: planning.officer+40@factory.example.com
+Subject: Support Brackets SN-0040
+
+Hello,
+
+We are scheduling Serial Number SN-0040 for the item named ""Support Bracket SB-40"". The item description is: bracket used for mounting side guide rails on conveyor frames. The item specification is: Material=SS304; Slot Length=60mm; Thickness=5mm; Finish=Brushed. We require an item quantity of 120 units, and the item deadline is 2026-04-09.
+
+Regards,
+Planning",conveyor.shop@factory.example.com,planning.officer+40@factory.example.com,Support Brackets SN-0040,"Hello,
+
+We are scheduling Serial Number SN-0040 for the item named ""Support Bracket SB-40"". The item description is: bracket used for mounting side guide rails on conveyor frames. The item specification is: Material=SS304; Slot Length=60mm; Thickness=5mm; Finish=Brushed. We require an item quantity of 120 units, and the item deadline is 2026-04-09.
+
+Regards,
+Planning",SN-0040,Support Bracket SB-40,"bracket used for mounting side guide rails on conveyor frames. The item specification is: Material=SS304; Slot Length=60mm; Thickness=5mm; Finish=Brushed. We require an item quantity of 120 units, and the item deadline is 2026-04-09.","Material=SS304; Slot Length=60mm; Thickness=5mm; Finish=Brushed. We require an item quantity of 120 units, and the item deadline is 2026-04-09.",,2026-04-09
+"To: sensors.cell@factory.example.com
+From: planning.officer+41@factory.example.com
+Subject: Photoeye Mounts SN-0041
+
+Hi Sensors Team,
+
+Serial Number SN-0041 covers the item named ""Photoeye Mount PM-41"". The item description is: adjustable mounting bracket for optical sensors on conveyors. The item specification is: Material=SS304; Height=300mm; Base=80x80mm; Adjustment=3 Axis. Please plan an item quantity of 65 units, with an item deadline of 2026-04-10.
+
+Thanks,
+Planning",sensors.cell@factory.example.com,planning.officer+41@factory.example.com,Photoeye Mounts SN-0041,"Hi Sensors Team,
+
+Serial Number SN-0041 covers the item named ""Photoeye Mount PM-41"". The item description is: adjustable mounting bracket for optical sensors on conveyors. The item specification is: Material=SS304; Height=300mm; Base=80x80mm; Adjustment=3 Axis. Please plan an item quantity of 65 units, with an item deadline of 2026-04-10.
+
+Thanks,
+Planning",SN-0041,Photoeye Mount PM-41,"adjustable mounting bracket for optical sensors on conveyors. The item specification is: Material=SS304; Height=300mm; Base=80x80mm; Adjustment=3 Axis. Please plan an item quantity of 65 units, with an item deadline of 2026-04-10.","Material=SS304; Height=300mm; Base=80x80mm; Adjustment=3 Axis. Please plan an item quantity of 65 units, with an item deadline of 2026-04-10.",,
+"To: mechanical.design@factory.example.com
+From: planning.officer+42@factory.example.com
+Subject: HMI Stands SN-0042
+
+Team,
+
+We have created Serial Number SN-0042 for the item named ""HMI Stand HS-42"". The item description is: floor stand used to mount the operator HMI terminal. The item specification is: Height=1400mm; Base=400x400mm; Tilt=30 Degrees; Material=MS. The required item quantity is 9 units, and the item deadline is 2026-04-11.
+
+Regards,
+Planning",mechanical.design@factory.example.com,planning.officer+42@factory.example.com,HMI Stands SN-0042,"Team,
+
+We have created Serial Number SN-0042 for the item named ""HMI Stand HS-42"". The item description is: floor stand used to mount the operator HMI terminal. The item specification is: Height=1400mm; Base=400x400mm; Tilt=30 Degrees; Material=MS. The required item quantity is 9 units, and the item deadline is 2026-04-11.
+
+Regards,
+Planning",SN-0042,HMI Stand HS-42,"floor stand used to mount the operator HMI terminal. The item specification is: Height=1400mm; Base=400x400mm; Tilt=30 Degrees; Material=MS. The required item quantity is 9 units, and the item deadline is 2026-04-11.","Height=1400mm; Base=400x400mm; Tilt=30 Degrees; Material=MS. The required item quantity is 9 units, and the item deadline is 2026-04-11.",9,2026-04-11
+"To: electrical.shop@factory.example.com
+From: planning.officer+43@factory.example.com
+Subject: Cable Trays SN-0043
+
+Hello Electrical Team,
+
+Serial Number SN-0043 refers to the item named ""Cable Tray CT-43"". The item description is: perforated cable tray used for control cable routing. The item specification is: Width=300mm; Height=50mm; Thickness=1.6mm; Finish=GI. Please supply an item quantity of 110 units, and note that the item deadline is 2026-04-12.
+
+Thanks,
+Planning",electrical.shop@factory.example.com,planning.officer+43@factory.example.com,Cable Trays SN-0043,"Hello Electrical Team,
+
+Serial Number SN-0043 refers to the item named ""Cable Tray CT-43"". The item description is: perforated cable tray used for control cable routing. The item specification is: Width=300mm; Height=50mm; Thickness=1.6mm; Finish=GI. Please supply an item quantity of 110 units, and note that the item deadline is 2026-04-12.
+
+Thanks,
+Planning",SN-0043,Cable Tray CT-43,"perforated cable tray used for control cable routing. The item specification is: Width=300mm; Height=50mm; Thickness=1.6mm; Finish=GI. Please supply an item quantity of 110 units, and note that the item deadline is 2026-04-12.","Width=300mm; Height=50mm; Thickness=1.6mm; Finish=GI. Please supply an item quantity of 110 units, and note that the item deadline is 2026-04-12.",,2026-04-12
+"To: electrical.shop@factory.example.com
+From: planning.officer+44@factory.example.com
+Subject: Cable Trunking SN-0044
+
+Hi,
+
+We are raising Serial Number SN-0044 for the item named ""Cable Trunking CTr-44"". The item description is: closed cable trunking used for routing power cables. The specified item specification is: Width=150mm; Height=100mm; Thickness=2mm; Finish=Powder Coat. The item quantity required is 60 units, and the item deadline is 2026-04-13.
+
+Best,
+Planning",electrical.shop@factory.example.com,planning.officer+44@factory.example.com,Cable Trunking SN-0044,"Hi,
+
+We are raising Serial Number SN-0044 for the item named ""Cable Trunking CTr-44"". The item description is: closed cable trunking used for routing power cables. The specified item specification is: Width=150mm; Height=100mm; Thickness=2mm; Finish=Powder Coat. The item quantity required is 60 units, and the item deadline is 2026-04-13.
+
+Best,
+Planning",SN-0044,Cable Trunking CTr-44,"closed cable trunking used for routing power cables. The specified item specification is: Width=150mm; Height=100mm; Thickness=2mm; Finish=Powder Coat. The item quantity required is 60 units, and the item deadline is 2026-04-13.","Width=150mm; Height=100mm; Thickness=2mm; Finish=Powder Coat. The item quantity required is 60 units, and the item deadline is 2026-04-13.",,2026-04-13
+"To: panels.shop@factory.example.com
+From: planning.officer+45@factory.example.com
+Subject: MCC Enclosures SN-0045
+
+Dear Panel Shop,
+
+Serial Number SN-0045 has been assigned to the item named ""MCC Enclosure MCC-45"". The item description is: motor control center enclosure with multiple feeders. The item specification is: Form=3B; Incomer=400A; Feeder=12 Starters; IP=IP42. We need an item quantity of 2 units, and the item deadline is 2026-04-14.
+
+Regards,
+Planning Office",panels.shop@factory.example.com,planning.officer+45@factory.example.com,MCC Enclosures SN-0045,"Dear Panel Shop,
+
+Serial Number SN-0045 has been assigned to the item named ""MCC Enclosure MCC-45"". The item description is: motor control center enclosure with multiple feeders. The item specification is: Form=3B; Incomer=400A; Feeder=12 Starters; IP=IP42. We need an item quantity of 2 units, and the item deadline is 2026-04-14.
+
+Regards,
+Planning Office",SN-0045,MCC Enclosure MCC-45,"motor control center enclosure with multiple feeders. The item specification is: Form=3B; Incomer=400A; Feeder=12 Starters; IP=IP42. We need an item quantity of 2 units, and the item deadline is 2026-04-14.","Form=3B; Incomer=400A; Feeder=12 Starters; IP=IP42. We need an item quantity of 2 units, and the item deadline is 2026-04-14.",,2026-04-14
+"To: panels.shop@factory.example.com
+From: planning.officer+46@factory.example.com
+Subject: VFD Panels SN-0046
+
+Hi,
+
+This email covers Serial Number SN-0046 for the item named ""VFD Panel VP-46"". The item description is: variable frequency drive panel used for speed control of motors. The item specification is: Power=22kW; Input=415VAC; Drives=3 Nos; Cooling=Forced Air. The planned item quantity is 3 units, and the item deadline is 2026-04-15.
+
+Thanks,
+Planning",panels.shop@factory.example.com,planning.officer+46@factory.example.com,VFD Panels SN-0046,"Hi,
+
+This email covers Serial Number SN-0046 for the item named ""VFD Panel VP-46"". The item description is: variable frequency drive panel used for speed control of motors. The item specification is: Power=22kW; Input=415VAC; Drives=3 Nos; Cooling=Forced Air. The planned item quantity is 3 units, and the item deadline is 2026-04-15.
+
+Thanks,
+Planning",SN-0046,VFD Panel VP-46,"variable frequency drive panel used for speed control of motors. The item specification is: Power=22kW; Input=415VAC; Drives=3 Nos; Cooling=Forced Air. The planned item quantity is 3 units, and the item deadline is 2026-04-15.","Power=22kW; Input=415VAC; Drives=3 Nos; Cooling=Forced Air. The planned item quantity is 3 units, and the item deadline is 2026-04-15.",3,2026-04-15
+"To: panels.shop@factory.example.com
+From: planning.officer+47@factory.example.com
+Subject: Terminal Block Sets SN-0047
+
+Hello Panel Team,
+
+We are initiating Serial Number SN-0047 for the item named ""Terminal Block Set TB-47"". The item description is: DIN-rail mounted terminal block kit used inside control panels. The item specification is: Type=Feed Through; Size=2.5sqmm; Color=Grey; Accessories=End Plate+Stopper. The required item quantity is 260 units, and the item deadline is 2026-04-16.
+
+Regards,
+Planning",panels.shop@factory.example.com,planning.officer+47@factory.example.com,Terminal Block Sets SN-0047,"Hello Panel Team,
+
+We are initiating Serial Number SN-0047 for the item named ""Terminal Block Set TB-47"". The item description is: DIN-rail mounted terminal block kit used inside control panels. The item specification is: Type=Feed Through; Size=2.5sqmm; Color=Grey; Accessories=End Plate+Stopper. The required item quantity is 260 units, and the item deadline is 2026-04-16.
+
+Regards,
+Planning",SN-0047,Terminal Block Set TB-47,"DIN-rail mounted terminal block kit used inside control panels. The item specification is: Type=Feed Through; Size=2.5sqmm; Color=Grey; Accessories=End Plate+Stopper. The required item quantity is 260 units, and the item deadline is 2026-04-16.","Type=Feed Through; Size=2.5sqmm; Color=Grey; Accessories=End Plate+Stopper. The required item quantity is 260 units, and the item deadline is 2026-04-16.",260,2026-04-16
+"To: electrical.shop@factory.example.com
+From: planning.officer+48@factory.example.com
+Subject: Cable Glands SN-0048
+
+Hi team,
+
+Serial Number SN-0048 corresponds to the item named ""Cable Gland CG-48"". The item description is: brass cable glands used for armored cable terminations. The item specification is: Size=25mm; Thread=Metric; IP=IP68; Finish=Nickel Plated. Please arrange an item quantity of 190 units, with an item deadline of 2026-04-17.
+
+Best,
+Planning",electrical.shop@factory.example.com,planning.officer+48@factory.example.com,Cable Glands SN-0048,"Hi team,
+
+Serial Number SN-0048 corresponds to the item named ""Cable Gland CG-48"". The item description is: brass cable glands used for armored cable terminations. The item specification is: Size=25mm; Thread=Metric; IP=IP68; Finish=Nickel Plated. Please arrange an item quantity of 190 units, with an item deadline of 2026-04-17.
+
+Best,
+Planning",SN-0048,Cable Gland CG-48,"brass cable glands used for armored cable terminations. The item specification is: Size=25mm; Thread=Metric; IP=IP68; Finish=Nickel Plated. Please arrange an item quantity of 190 units, with an item deadline of 2026-04-17.","Size=25mm; Thread=Metric; IP=IP68; Finish=Nickel Plated. Please arrange an item quantity of 190 units, with an item deadline of 2026-04-17.",,
+"To: control.stations@factory.example.com
+From: planning.officer+49@factory.example.com
+Subject: Push Button Stations SN-0049
+
+Hello,
+
+We have created Serial Number SN-0049 for the item named ""Push Button Station PBS-49"". The item description is: start-stop push button station used for local machine control. The item specification is: Enclosure=IP65; Buttons=2; Contact=1NO+1NC; Color=Green+Red. The required item quantity is 58 units, and the item deadline is 2026-04-18.
+
+Regards,
+Planning",control.stations@factory.example.com,planning.officer+49@factory.example.com,Push Button Stations SN-0049,"Hello,
+
+We have created Serial Number SN-0049 for the item named ""Push Button Station PBS-49"". The item description is: start-stop push button station used for local machine control. The item specification is: Enclosure=IP65; Buttons=2; Contact=1NO+1NC; Color=Green+Red. The required item quantity is 58 units, and the item deadline is 2026-04-18.
+
+Regards,
+Planning",SN-0049,Push Button Station PBS-49,"start-stop push button station used for local machine control. The item specification is: Enclosure=IP65; Buttons=2; Contact=1NO+1NC; Color=Green+Red. The required item quantity is 58 units, and the item deadline is 2026-04-18.","Enclosure=IP65; Buttons=2; Contact=1NO+1NC; Color=Green+Red. The required item quantity is 58 units, and the item deadline is 2026-04-18.",58,2026-04-18
+"To: control.stations@factory.example.com
+From: planning.officer+50@factory.example.com
+Subject: Signal Towers SN-0050
+
+Hi,
+
+Serial Number SN-0050 is assigned to the item named ""Signal Tower ST-50"". The item description is: three-tier signal tower light used for indicating machine status. The item specification is: Colors=Red+Amber+Green; Voltage=24VDC; Mount=Pole; Buzzer=Yes. Please plan an item quantity of 34 units, and the item deadline is 2026-04-19.
+
+Thanks,
+Planning Dept.",control.stations@factory.example.com,planning.officer+50@factory.example.com,Signal Towers SN-0050,"Hi,
+
+Serial Number SN-0050 is assigned to the item named ""Signal Tower ST-50"". The item description is: three-tier signal tower light used for indicating machine status. The item specification is: Colors=Red+Amber+Green; Voltage=24VDC; Mount=Pole; Buzzer=Yes. Please plan an item quantity of 34 units, and the item deadline is 2026-04-19.
+
+Thanks,
+Planning Dept.",SN-0050,Signal Tower ST-50,"three-tier signal tower light used for indicating machine status. The item specification is: Colors=Red+Amber+Green; Voltage=24VDC; Mount=Pole; Buzzer=Yes. Please plan an item quantity of 34 units, and the item deadline is 2026-04-19.","Colors=Red+Amber+Green; Voltage=24VDC; Mount=Pole; Buzzer=Yes. Please plan an item quantity of 34 units, and the item deadline is 2026-04-19.",,2026-04-19
+"To: safety.systems@factory.example.com
+From: planning.officer+51@factory.example.com
+Subject: Safety Relays SN-0051
+
+Team,
+
+We are raising Serial Number SN-0051 for the item named ""Safety Relay SR-51"". The item description is: safety monitoring relay used in emergency circuits. The item specification is: Inputs=Dual Channel; Output=3NO+1NC; Voltage=24VDC; Category=4. The planned item quantity is 18 units, and the item deadline is 2026-04-20.
+
+Regards,
+Planning",safety.systems@factory.example.com,planning.officer+51@factory.example.com,Safety Relays SN-0051,"Team,
+
+We are raising Serial Number SN-0051 for the item named ""Safety Relay SR-51"". The item description is: safety monitoring relay used in emergency circuits. The item specification is: Inputs=Dual Channel; Output=3NO+1NC; Voltage=24VDC; Category=4. The planned item quantity is 18 units, and the item deadline is 2026-04-20.
+
+Regards,
+Planning",SN-0051,Safety Relay SR-51,"safety monitoring relay used in emergency circuits. The item specification is: Inputs=Dual Channel; Output=3NO+1NC; Voltage=24VDC; Category=4. The planned item quantity is 18 units, and the item deadline is 2026-04-20.","Inputs=Dual Channel; Output=3NO+1NC; Voltage=24VDC; Category=4. The planned item quantity is 18 units, and the item deadline is 2026-04-20.",18,2026-04-20
+"To: safety.systems@factory.example.com
+From: planning.officer+52@factory.example.com
+Subject: Emergency Stop Stations SN-0052
+
+Hi Safety Team,
+
+Serial Number SN-0052 refers to the item named ""Emergency Stop Station ESS-52"". The item description is: mushroom-head emergency stop with enclosure for field mounting. The item specification is: Head Size=40mm; Latching=Twist Release; Contacts=2NC; IP=IP65. Please produce an item quantity of 40 units, and note that the item deadline is 2026-04-21.
+
+Thanks,
+Planning",safety.systems@factory.example.com,planning.officer+52@factory.example.com,Emergency Stop Stations SN-0052,"Hi Safety Team,
+
+Serial Number SN-0052 refers to the item named ""Emergency Stop Station ESS-52"". The item description is: mushroom-head emergency stop with enclosure for field mounting. The item specification is: Head Size=40mm; Latching=Twist Release; Contacts=2NC; IP=IP65. Please produce an item quantity of 40 units, and note that the item deadline is 2026-04-21.
+
+Thanks,
+Planning",SN-0052,Emergency Stop Station ESS-52,"mushroom-head emergency stop with enclosure for field mounting. The item specification is: Head Size=40mm; Latching=Twist Release; Contacts=2NC; IP=IP65. Please produce an item quantity of 40 units, and note that the item deadline is 2026-04-21.","Head Size=40mm; Latching=Twist Release; Contacts=2NC; IP=IP65. Please produce an item quantity of 40 units, and note that the item deadline is 2026-04-21.",,2026-04-21
+"To: safety.systems@factory.example.com
+From: planning.officer+53@factory.example.com
+Subject: Safety Light Curtains SN-0053
+
+Hello,
+
+We have opened Serial Number SN-0053 for the item named ""Safety Light Curtain LC-53"". The item description is: presence-sensing light curtain used for access guarding. The item specification is: Height=900mm; Resolution=30mm; Range=0.3-7m; SIL=2. The required item quantity is 5 units, and the item deadline is 2026-04-22.
+
+Regards,
+Planning",safety.systems@factory.example.com,planning.officer+53@factory.example.com,Safety Light Curtains SN-0053,"Hello,
+
+We have opened Serial Number SN-0053 for the item named ""Safety Light Curtain LC-53"". The item description is: presence-sensing light curtain used for access guarding. The item specification is: Height=900mm; Resolution=30mm; Range=0.3-7m; SIL=2. The required item quantity is 5 units, and the item deadline is 2026-04-22.
+
+Regards,
+Planning",SN-0053,Safety Light Curtain LC-53,"presence-sensing light curtain used for access guarding. The item specification is: Height=900mm; Resolution=30mm; Range=0.3-7m; SIL=2. The required item quantity is 5 units, and the item deadline is 2026-04-22.","Height=900mm; Resolution=30mm; Range=0.3-7m; SIL=2. The required item quantity is 5 units, and the item deadline is 2026-04-22.",5,2026-04-22
+"To: safety.systems@factory.example.com
+From: planning.officer+54@factory.example.com
+Subject: Guard Interlock Switches SN-0054
+
+Hi,
+
+Serial Number SN-0054 is for the item named ""Guard Interlock Switch GIS-54"". The item description is: coded interlock switch used for safety gate monitoring. The specified item specification is: Type=Non-contact; Voltage=24VDC; Contacts=2NO+1NC; Housing=Plastic. The planned item quantity is 33 units, and the item deadline is 2026-04-23.
+
+Best,
+Planning",safety.systems@factory.example.com,planning.officer+54@factory.example.com,Guard Interlock Switches SN-0054,"Hi,
+
+Serial Number SN-0054 is for the item named ""Guard Interlock Switch GIS-54"". The item description is: coded interlock switch used for safety gate monitoring. The specified item specification is: Type=Non-contact; Voltage=24VDC; Contacts=2NO+1NC; Housing=Plastic. The planned item quantity is 33 units, and the item deadline is 2026-04-23.
+
+Best,
+Planning",SN-0054,Guard Interlock Switch GIS-54,"coded interlock switch used for safety gate monitoring. The specified item specification is: Type=Non-contact; Voltage=24VDC; Contacts=2NO+1NC; Housing=Plastic. The planned item quantity is 33 units, and the item deadline is 2026-04-23.","Type=Non-contact; Voltage=24VDC; Contacts=2NO+1NC; Housing=Plastic. The planned item quantity is 33 units, and the item deadline is 2026-04-23.",33,2026-04-23
+"To: identification.systems@factory.example.com
+From: planning.officer+55@factory.example.com
+Subject: Barcode Scanners SN-0055
+
+Hello ID Team,
+
+We are creating Serial Number SN-0055 for the item named ""Barcode Scanner BCS-55"". The item description is: fixed-mount barcode scanner used for line tracking of cartons. The item specification is: Type=1D/2D; Interface=Ethernet; Range=100-600mm; IP=IP65. Please arrange an item quantity of 17 units, and the item deadline is 2026-04-24.
+
+Regards,
+Planning",identification.systems@factory.example.com,planning.officer+55@factory.example.com,Barcode Scanners SN-0055,"Hello ID Team,
+
+We are creating Serial Number SN-0055 for the item named ""Barcode Scanner BCS-55"". The item description is: fixed-mount barcode scanner used for line tracking of cartons. The item specification is: Type=1D/2D; Interface=Ethernet; Range=100-600mm; IP=IP65. Please arrange an item quantity of 17 units, and the item deadline is 2026-04-24.
+
+Regards,
+Planning",SN-0055,Barcode Scanner BCS-55,"fixed-mount barcode scanner used for line tracking of cartons. The item specification is: Type=1D/2D; Interface=Ethernet; Range=100-600mm; IP=IP65. Please arrange an item quantity of 17 units, and the item deadline is 2026-04-24.","Type=1D/2D; Interface=Ethernet; Range=100-600mm; IP=IP65. Please arrange an item quantity of 17 units, and the item deadline is 2026-04-24.",,2026-04-24
+"To: identification.systems@factory.example.com
+From: planning.officer+56@factory.example.com
+Subject: RFID Readers SN-0056
+
+Hi,
+
+Serial Number SN-0056 has been assigned to the item named ""RFID Reader RFR-56"". The item description is: UHF RFID reader used for pallet identification in dispatch. The item specification is: Frequency=865-867MHz; Interface=TCP/IP; Antennas=4 Ports; Power=30dBm. We require an item quantity of 9 units, and the item deadline is 2026-04-25.
+
+Thanks,
+Planning",identification.systems@factory.example.com,planning.officer+56@factory.example.com,RFID Readers SN-0056,"Hi,
+
+Serial Number SN-0056 has been assigned to the item named ""RFID Reader RFR-56"". The item description is: UHF RFID reader used for pallet identification in dispatch. The item specification is: Frequency=865-867MHz; Interface=TCP/IP; Antennas=4 Ports; Power=30dBm. We require an item quantity of 9 units, and the item deadline is 2026-04-25.
+
+Thanks,
+Planning",SN-0056,RFID Reader RFR-56,"UHF RFID reader used for pallet identification in dispatch. The item specification is: Frequency=865-867MHz; Interface=TCP/IP; Antennas=4 Ports; Power=30dBm. We require an item quantity of 9 units, and the item deadline is 2026-04-25.","Frequency=865-867MHz; Interface=TCP/IP; Antennas=4 Ports; Power=30dBm. We require an item quantity of 9 units, and the item deadline is 2026-04-25.",,2026-04-25
+"To: identification.systems@factory.example.com
+From: planning.officer+57@factory.example.com
+Subject: RFID Tags SN-0057
+
+Team,
+
+We have opened Serial Number SN-0057 for the item named ""RFID Tag RFT-57"". The item description is: UHF RFID tag used for pallet and container tracking. The item specification is: Type=On-metal; Memory=128bit EPC; Size=60x20mm; Protection=IP68. The required item quantity is 520 units, and the item deadline is 2026-04-26.
+
+Regards,
+Planning",identification.systems@factory.example.com,planning.officer+57@factory.example.com,RFID Tags SN-0057,"Team,
+
+We have opened Serial Number SN-0057 for the item named ""RFID Tag RFT-57"". The item description is: UHF RFID tag used for pallet and container tracking. The item specification is: Type=On-metal; Memory=128bit EPC; Size=60x20mm; Protection=IP68. The required item quantity is 520 units, and the item deadline is 2026-04-26.
+
+Regards,
+Planning",SN-0057,RFID Tag RFT-57,"UHF RFID tag used for pallet and container tracking. The item specification is: Type=On-metal; Memory=128bit EPC; Size=60x20mm; Protection=IP68. The required item quantity is 520 units, and the item deadline is 2026-04-26.","Type=On-metal; Memory=128bit EPC; Size=60x20mm; Protection=IP68. The required item quantity is 520 units, and the item deadline is 2026-04-26.",520,2026-04-26
+"To: weighing.systems@factory.example.com
+From: planning.officer+58@factory.example.com
+Subject: Weighing Platforms SN-0058
+
+Hello,
+
+Serial Number SN-0058 is associated with the item named ""Weighing Platform WP-58"". The item description is: floor scale platform used for tote weighing. The item specification is: Size=1000x1000mm; Capacity=1000kg; Material=SS Top; Loadcells=4. We need an item quantity of 6 units, and the item deadline is 2026-04-27.
+
+Best,
+Planning",weighing.systems@factory.example.com,planning.officer+58@factory.example.com,Weighing Platforms SN-0058,"Hello,
+
+Serial Number SN-0058 is associated with the item named ""Weighing Platform WP-58"". The item description is: floor scale platform used for tote weighing. The item specification is: Size=1000x1000mm; Capacity=1000kg; Material=SS Top; Loadcells=4. We need an item quantity of 6 units, and the item deadline is 2026-04-27.
+
+Best,
+Planning",SN-0058,Weighing Platform WP-58,"floor scale platform used for tote weighing. The item specification is: Size=1000x1000mm; Capacity=1000kg; Material=SS Top; Loadcells=4. We need an item quantity of 6 units, and the item deadline is 2026-04-27.","Size=1000x1000mm; Capacity=1000kg; Material=SS Top; Loadcells=4. We need an item quantity of 6 units, and the item deadline is 2026-04-27.",,2026-04-27
+"To: weighing.systems@factory.example.com
+From: planning.officer+59@factory.example.com
+Subject: Load Cells SN-0059
+
+Hi Weighing Team,
+
+We are scheduling Serial Number SN-0059 for the item named ""Load Cell LC-59"". The item description is: shear beam load cell used in platform scales. The item specification is: Capacity=500kg; Output=2mV/V; Protection=IP67; Material=Alloy Steel. Please arrange an item quantity of 28 units, and the item deadline is 2026-04-28.
+
+Thanks,
+Planning",weighing.systems@factory.example.com,planning.officer+59@factory.example.com,Load Cells SN-0059,"Hi Weighing Team,
+
+We are scheduling Serial Number SN-0059 for the item named ""Load Cell LC-59"". The item description is: shear beam load cell used in platform scales. The item specification is: Capacity=500kg; Output=2mV/V; Protection=IP67; Material=Alloy Steel. Please arrange an item quantity of 28 units, and the item deadline is 2026-04-28.
+
+Thanks,
+Planning",SN-0059,Load Cell LC-59,"shear beam load cell used in platform scales. The item specification is: Capacity=500kg; Output=2mV/V; Protection=IP67; Material=Alloy Steel. Please arrange an item quantity of 28 units, and the item deadline is 2026-04-28.","Capacity=500kg; Output=2mV/V; Protection=IP67; Material=Alloy Steel. Please arrange an item quantity of 28 units, and the item deadline is 2026-04-28.",,2026-04-28
+"To: weighing.systems@factory.example.com
+From: planning.officer+60@factory.example.com
+Subject: Weighing Junction Boxes SN-0060
+
+Dear Team,
+
+Serial Number SN-0060 corresponds to the item named ""Weighing Junction Box WJB-60"". The item description is: summing junction box used for load cell connections. The item specification is: Channels=4; Material=SS304; IP=IP65; Cable Glands=4 Nos. The required item quantity is 20 units, and the item deadline is 2026-04-29.
+
+Regards,
+Planning",weighing.systems@factory.example.com,planning.officer+60@factory.example.com,Weighing Junction Boxes SN-0060,"Dear Team,
+
+Serial Number SN-0060 corresponds to the item named ""Weighing Junction Box WJB-60"". The item description is: summing junction box used for load cell connections. The item specification is: Channels=4; Material=SS304; IP=IP65; Cable Glands=4 Nos. The required item quantity is 20 units, and the item deadline is 2026-04-29.
+
+Regards,
+Planning",SN-0060,Weighing Junction Box WJB-60,"summing junction box used for load cell connections. The item specification is: Channels=4; Material=SS304; IP=IP65; Cable Glands=4 Nos. The required item quantity is 20 units, and the item deadline is 2026-04-29.","Channels=4; Material=SS304; IP=IP65; Cable Glands=4 Nos. The required item quantity is 20 units, and the item deadline is 2026-04-29.",20,2026-04-29
+"To: weighing.systems@factory.example.com
+From: planning.officer+61@factory.example.com
+Subject: Checkweigher Frames SN-0061
+
+Hello,
+
+We have created Serial Number SN-0061 for the item named ""Checkweigher Frame CF-61"". The item description is: structural frame for in-line checkweigher units. The item specification is: Material=SS304; Belt Width=400mm; Height=900mm; Finish=Polished. Please supply an item quantity of 4 units, with an item deadline of 2026-04-30.
+
+Thanks,
+Planning",weighing.systems@factory.example.com,planning.officer+61@factory.example.com,Checkweigher Frames SN-0061,"Hello,
+
+We have created Serial Number SN-0061 for the item named ""Checkweigher Frame CF-61"". The item description is: structural frame for in-line checkweigher units. The item specification is: Material=SS304; Belt Width=400mm; Height=900mm; Finish=Polished. Please supply an item quantity of 4 units, with an item deadline of 2026-04-30.
+
+Thanks,
+Planning",SN-0061,Checkweigher Frame CF-61,"structural frame for in-line checkweigher units. The item specification is: Material=SS304; Belt Width=400mm; Height=900mm; Finish=Polished. Please supply an item quantity of 4 units, with an item deadline of 2026-04-30.","Material=SS304; Belt Width=400mm; Height=900mm; Finish=Polished. Please supply an item quantity of 4 units, with an item deadline of 2026-04-30.",,
+"To: weighing.systems@factory.example.com
+From: planning.officer+62@factory.example.com
+Subject: Rejector Arms SN-0062
+
+Hi,
+
+Serial Number SN-0062 is for the item named ""Rejector Arm RA-62"". The item description is: pneumatic pusher arm used for checkweigher reject stations. The item specification is: Stroke=250mm; Bore=63mm; Material=SS304; Mounting=Side. The planned item quantity is 10 units, and the item deadline is 2026-05-01.
+
+Best,
+Planning",weighing.systems@factory.example.com,planning.officer+62@factory.example.com,Rejector Arms SN-0062,"Hi,
+
+Serial Number SN-0062 is for the item named ""Rejector Arm RA-62"". The item description is: pneumatic pusher arm used for checkweigher reject stations. The item specification is: Stroke=250mm; Bore=63mm; Material=SS304; Mounting=Side. The planned item quantity is 10 units, and the item deadline is 2026-05-01.
+
+Best,
+Planning",SN-0062,Rejector Arm RA-62,"pneumatic pusher arm used for checkweigher reject stations. The item specification is: Stroke=250mm; Bore=63mm; Material=SS304; Mounting=Side. The planned item quantity is 10 units, and the item deadline is 2026-05-01.","Stroke=250mm; Bore=63mm; Material=SS304; Mounting=Side. The planned item quantity is 10 units, and the item deadline is 2026-05-01.",10,2026-05-01
+"To: motion.control@factory.example.com
+From: planning.officer+63@factory.example.com
+Subject: Servo Motors SN-0063
+
+Team,
+
+We are raising Serial Number SN-0063 for the item named ""Servo Motor SM-63"". The item description is: servo motor used for high-speed indexing systems. The item specification is: Power=1.5kW; Voltage=230VAC; Encoder=20bit; Protection=IP65. We require an item quantity of 16 units, and the item deadline is 2026-05-02.
+
+Regards,
+Planning",motion.control@factory.example.com,planning.officer+63@factory.example.com,Servo Motors SN-0063,"Team,
+
+We are raising Serial Number SN-0063 for the item named ""Servo Motor SM-63"". The item description is: servo motor used for high-speed indexing systems. The item specification is: Power=1.5kW; Voltage=230VAC; Encoder=20bit; Protection=IP65. We require an item quantity of 16 units, and the item deadline is 2026-05-02.
+
+Regards,
+Planning",SN-0063,Servo Motor SM-63,"servo motor used for high-speed indexing systems. The item specification is: Power=1.5kW; Voltage=230VAC; Encoder=20bit; Protection=IP65. We require an item quantity of 16 units, and the item deadline is 2026-05-02.","Power=1.5kW; Voltage=230VAC; Encoder=20bit; Protection=IP65. We require an item quantity of 16 units, and the item deadline is 2026-05-02.",,2026-05-02
+"To: motion.control@factory.example.com
+From: planning.officer+64@factory.example.com
+Subject: Servo Drives SN-0064
+
+Hello Motion Team,
+
+Serial Number SN-0064 refers to the item named ""Servo Drive SD-64"". The item description is: digital servo drive used for motion control axes. The item specification is: Power=1.5kW; Interface=EtherCAT; Supply=230VAC; I/O=16. Please plan an item quantity of 16 units, with an item deadline of 2026-05-03.
+
+Thanks,
+Planning",motion.control@factory.example.com,planning.officer+64@factory.example.com,Servo Drives SN-0064,"Hello Motion Team,
+
+Serial Number SN-0064 refers to the item named ""Servo Drive SD-64"". The item description is: digital servo drive used for motion control axes. The item specification is: Power=1.5kW; Interface=EtherCAT; Supply=230VAC; I/O=16. Please plan an item quantity of 16 units, with an item deadline of 2026-05-03.
+
+Thanks,
+Planning",SN-0064,Servo Drive SD-64,"digital servo drive used for motion control axes. The item specification is: Power=1.5kW; Interface=EtherCAT; Supply=230VAC; I/O=16. Please plan an item quantity of 16 units, with an item deadline of 2026-05-03.","Power=1.5kW; Interface=EtherCAT; Supply=230VAC; I/O=16. Please plan an item quantity of 16 units, with an item deadline of 2026-05-03.",,
+"To: motion.control@factory.example.com
+From: planning.officer+65@factory.example.com
+Subject: Linear Guides SN-0065
+
+Hi,
+
+We have opened Serial Number SN-0065 for the item named ""Linear Guide LG-65"". The item description is: linear motion guide rail with blocks for positioning axes. The item specification is: Size=20mm; Length=2200mm; Blocks=2; Accuracy=H Class. The required item quantity is 22 units, and the item deadline is 2026-05-04.
+
+Best,
+Planning",motion.control@factory.example.com,planning.officer+65@factory.example.com,Linear Guides SN-0065,"Hi,
+
+We have opened Serial Number SN-0065 for the item named ""Linear Guide LG-65"". The item description is: linear motion guide rail with blocks for positioning axes. The item specification is: Size=20mm; Length=2200mm; Blocks=2; Accuracy=H Class. The required item quantity is 22 units, and the item deadline is 2026-05-04.
+
+Best,
+Planning",SN-0065,Linear Guide LG-65,"linear motion guide rail with blocks for positioning axes. The item specification is: Size=20mm; Length=2200mm; Blocks=2; Accuracy=H Class. The required item quantity is 22 units, and the item deadline is 2026-05-04.","Size=20mm; Length=2200mm; Blocks=2; Accuracy=H Class. The required item quantity is 22 units, and the item deadline is 2026-05-04.",22,2026-05-04
+"To: motion.control@factory.example.com
+From: planning.officer+66@factory.example.com
+Subject: Ball Screws SN-0066
+
+Hello,
+
+Serial Number SN-0066 corresponds to the item named ""Ball Screw BS-66"". The item description is: precision ball screw used for linear positioning. The item specification is: Diameter=25mm; Lead=10mm; Length=1500mm; Nut=Single. Please arrange an item quantity of 14 units, and note that the item deadline is 2026-05-05.
+
+Regards,
+Planning",motion.control@factory.example.com,planning.officer+66@factory.example.com,Ball Screws SN-0066,"Hello,
+
+Serial Number SN-0066 corresponds to the item named ""Ball Screw BS-66"". The item description is: precision ball screw used for linear positioning. The item specification is: Diameter=25mm; Lead=10mm; Length=1500mm; Nut=Single. Please arrange an item quantity of 14 units, and note that the item deadline is 2026-05-05.
+
+Regards,
+Planning",SN-0066,Ball Screw BS-66,"precision ball screw used for linear positioning. The item specification is: Diameter=25mm; Lead=10mm; Length=1500mm; Nut=Single. Please arrange an item quantity of 14 units, and note that the item deadline is 2026-05-05.","Diameter=25mm; Lead=10mm; Length=1500mm; Nut=Single. Please arrange an item quantity of 14 units, and note that the item deadline is 2026-05-05.",,2026-05-05
+"To: tooling.shop@factory.example.com
+From: planning.officer+67@factory.example.com
+Subject: Guide Posts SN-0067
+
+Hi Tooling Team,
+
+We have created Serial Number SN-0067 for the item named ""Guide Post GP-67"". The item description is: guide post used in stamping and forming tools. The item specification is: Diameter=25mm; Length=300mm; Material=Tool Steel; Finish=Ground. The item quantity required is 60 units, and the item deadline is 2026-05-06.
+
+Thanks,
+Planning",tooling.shop@factory.example.com,planning.officer+67@factory.example.com,Guide Posts SN-0067,"Hi Tooling Team,
+
+We have created Serial Number SN-0067 for the item named ""Guide Post GP-67"". The item description is: guide post used in stamping and forming tools. The item specification is: Diameter=25mm; Length=300mm; Material=Tool Steel; Finish=Ground. The item quantity required is 60 units, and the item deadline is 2026-05-06.
+
+Thanks,
+Planning",SN-0067,Guide Post GP-67,"guide post used in stamping and forming tools. The item specification is: Diameter=25mm; Length=300mm; Material=Tool Steel; Finish=Ground. The item quantity required is 60 units, and the item deadline is 2026-05-06.","Diameter=25mm; Length=300mm; Material=Tool Steel; Finish=Ground. The item quantity required is 60 units, and the item deadline is 2026-05-06.",,2026-05-06
+"To: tooling.shop@factory.example.com
+From: planning.officer+68@factory.example.com
+Subject: Die Set Plates SN-0068
+
+Team,
+
+Serial Number SN-0068 is assigned to the item named ""Die Set Plate DSP-68"". The item description is: upper and lower plates for die set assemblies. The item specification is: Material=EN31; Thickness=40mm; Size=400x300mm; Finish=Ground. We need an item quantity of 12 units, and the item deadline is 2026-05-07.
+
+Regards,
+Planning",tooling.shop@factory.example.com,planning.officer+68@factory.example.com,Die Set Plates SN-0068,"Team,
+
+Serial Number SN-0068 is assigned to the item named ""Die Set Plate DSP-68"". The item description is: upper and lower plates for die set assemblies. The item specification is: Material=EN31; Thickness=40mm; Size=400x300mm; Finish=Ground. We need an item quantity of 12 units, and the item deadline is 2026-05-07.
+
+Regards,
+Planning",SN-0068,Die Set Plate DSP-68,"upper and lower plates for die set assemblies. The item specification is: Material=EN31; Thickness=40mm; Size=400x300mm; Finish=Ground. We need an item quantity of 12 units, and the item deadline is 2026-05-07.","Material=EN31; Thickness=40mm; Size=400x300mm; Finish=Ground. We need an item quantity of 12 units, and the item deadline is 2026-05-07.",,2026-05-07
+"To: tooling.shop@factory.example.com
+From: planning.officer+69@factory.example.com
+Subject: Punch Inserts SN-0069
+
+Hello,
+
+We are raising Serial Number SN-0069 for the item named ""Punch Insert PI-69"". The item description is: interchangeable punch insert used in blanking tools. The item specification is: Material=HSS; Hardness=60HRC; Shape=Round; Diameter=20mm. Please arrange an item quantity of 80 units, and the item deadline is 2026-05-08.
+
+Best,
+Planning",tooling.shop@factory.example.com,planning.officer+69@factory.example.com,Punch Inserts SN-0069,"Hello,
+
+We are raising Serial Number SN-0069 for the item named ""Punch Insert PI-69"". The item description is: interchangeable punch insert used in blanking tools. The item specification is: Material=HSS; Hardness=60HRC; Shape=Round; Diameter=20mm. Please arrange an item quantity of 80 units, and the item deadline is 2026-05-08.
+
+Best,
+Planning",SN-0069,Punch Insert PI-69,"interchangeable punch insert used in blanking tools. The item specification is: Material=HSS; Hardness=60HRC; Shape=Round; Diameter=20mm. Please arrange an item quantity of 80 units, and the item deadline is 2026-05-08.","Material=HSS; Hardness=60HRC; Shape=Round; Diameter=20mm. Please arrange an item quantity of 80 units, and the item deadline is 2026-05-08.",,2026-05-08
+"To: tooling.shop@factory.example.com
+From: planning.officer+70@factory.example.com
+Subject: Die Inserts SN-0070
+
+Hi,
+
+Serial Number SN-0070 refers to the item named ""Die Insert DI-70"". The item description is: matching die insert used with punch PI-69. The item specification is: Material=HSS; Clearance=0.1mm; Diameter=20.2mm; Hardness=60HRC. The required item quantity is 80 units, and the item deadline is 2026-05-09.
+
+Thanks,
+Planning",tooling.shop@factory.example.com,planning.officer+70@factory.example.com,Die Inserts SN-0070,"Hi,
+
+Serial Number SN-0070 refers to the item named ""Die Insert DI-70"". The item description is: matching die insert used with punch PI-69. The item specification is: Material=HSS; Clearance=0.1mm; Diameter=20.2mm; Hardness=60HRC. The required item quantity is 80 units, and the item deadline is 2026-05-09.
+
+Thanks,
+Planning",SN-0070,Die Insert DI-70,"matching die insert used with punch PI-69. The item specification is: Material=HSS; Clearance=0.1mm; Diameter=20.2mm; Hardness=60HRC. The required item quantity is 80 units, and the item deadline is 2026-05-09.","Material=HSS; Clearance=0.1mm; Diameter=20.2mm; Hardness=60HRC. The required item quantity is 80 units, and the item deadline is 2026-05-09.",80,2026-05-09
+"To: hvac.shop@factory.example.com
+From: planning.officer+71@factory.example.com
+Subject: Cooling Fans SN-0071
+
+Hello HVAC Team,
+
+We have created Serial Number SN-0071 for the item named ""Cooling Fan CF-71"". The item description is: panel-mounted cooling fan used for electrical enclosures. The item specification is: Size=120x120mm; Voltage=230VAC; Flow=120CFM; Filter=Yes. Please supply an item quantity of 70 units, and the item deadline is 2026-05-10.
+
+Regards,
+Planning",hvac.shop@factory.example.com,planning.officer+71@factory.example.com,Cooling Fans SN-0071,"Hello HVAC Team,
+
+We have created Serial Number SN-0071 for the item named ""Cooling Fan CF-71"". The item description is: panel-mounted cooling fan used for electrical enclosures. The item specification is: Size=120x120mm; Voltage=230VAC; Flow=120CFM; Filter=Yes. Please supply an item quantity of 70 units, and the item deadline is 2026-05-10.
+
+Regards,
+Planning",SN-0071,Cooling Fan CF-71,"panel-mounted cooling fan used for electrical enclosures. The item specification is: Size=120x120mm; Voltage=230VAC; Flow=120CFM; Filter=Yes. Please supply an item quantity of 70 units, and the item deadline is 2026-05-10.","Size=120x120mm; Voltage=230VAC; Flow=120CFM; Filter=Yes. Please supply an item quantity of 70 units, and the item deadline is 2026-05-10.",,2026-05-10
+"To: hvac.shop@factory.example.com
+From: planning.officer+72@factory.example.com
+Subject: Panel Air Conditioners SN-0072
+
+Hi,
+
+Serial Number SN-0072 corresponds to the item named ""Panel Air Conditioner PAC-72"". The item description is: enclosure air conditioner used for temperature control. The item specification is: Capacity=1000W; Voltage=230VAC; Mounting=Side; IP=IP54. The required item quantity is 8 units, and the item deadline is 2026-05-11.
+
+Best,
+Planning",hvac.shop@factory.example.com,planning.officer+72@factory.example.com,Panel Air Conditioners SN-0072,"Hi,
+
+Serial Number SN-0072 corresponds to the item named ""Panel Air Conditioner PAC-72"". The item description is: enclosure air conditioner used for temperature control. The item specification is: Capacity=1000W; Voltage=230VAC; Mounting=Side; IP=IP54. The required item quantity is 8 units, and the item deadline is 2026-05-11.
+
+Best,
+Planning",SN-0072,Panel Air Conditioner PAC-72,"enclosure air conditioner used for temperature control. The item specification is: Capacity=1000W; Voltage=230VAC; Mounting=Side; IP=IP54. The required item quantity is 8 units, and the item deadline is 2026-05-11.","Capacity=1000W; Voltage=230VAC; Mounting=Side; IP=IP54. The required item quantity is 8 units, and the item deadline is 2026-05-11.",8,2026-05-11
+"To: coolant.systems@factory.example.com
+From: planning.officer+73@factory.example.com
+Subject: Oil Skimmers SN-0073
+
+Team,
+
+We are raising Serial Number SN-0073 for the item named ""Oil Skimmer OS-73"". The item description is: belt-type oil skimmer used in coolant tanks. The item specification is: Belt Width=50mm; Reach=400mm; Motor=0.1kW; Voltage=230VAC. Please plan an item quantity of 11 units, with an item deadline of 2026-05-12.
+
+Regards,
+Planning",coolant.systems@factory.example.com,planning.officer+73@factory.example.com,Oil Skimmers SN-0073,"Team,
+
+We are raising Serial Number SN-0073 for the item named ""Oil Skimmer OS-73"". The item description is: belt-type oil skimmer used in coolant tanks. The item specification is: Belt Width=50mm; Reach=400mm; Motor=0.1kW; Voltage=230VAC. Please plan an item quantity of 11 units, with an item deadline of 2026-05-12.
+
+Regards,
+Planning",SN-0073,Oil Skimmer OS-73,"belt-type oil skimmer used in coolant tanks. The item specification is: Belt Width=50mm; Reach=400mm; Motor=0.1kW; Voltage=230VAC. Please plan an item quantity of 11 units, with an item deadline of 2026-05-12.","Belt Width=50mm; Reach=400mm; Motor=0.1kW; Voltage=230VAC. Please plan an item quantity of 11 units, with an item deadline of 2026-05-12.",,
+"To: dust.collection@factory.example.com
+From: planning.officer+74@factory.example.com
+Subject: Dust Collectors SN-0074
+
+Hello,
+
+Serial Number SN-0074 is for the item named ""Dust Collector DC-74"". The item description is: cartridge-type dust collector used for cutting stations. The item specification is: Airflow=3000m3/h; Motor=5.5kW; Filtration=1mic; Discharge=Bin. We need an item quantity of 3 units, and the item deadline is 2026-05-13.
+
+Best,
+Planning",dust.collection@factory.example.com,planning.officer+74@factory.example.com,Dust Collectors SN-0074,"Hello,
+
+Serial Number SN-0074 is for the item named ""Dust Collector DC-74"". The item description is: cartridge-type dust collector used for cutting stations. The item specification is: Airflow=3000m3/h; Motor=5.5kW; Filtration=1mic; Discharge=Bin. We need an item quantity of 3 units, and the item deadline is 2026-05-13.
+
+Best,
+Planning",SN-0074,Dust Collector DC-74,"cartridge-type dust collector used for cutting stations. The item specification is: Airflow=3000m3/h; Motor=5.5kW; Filtration=1mic; Discharge=Bin. We need an item quantity of 3 units, and the item deadline is 2026-05-13.","Airflow=3000m3/h; Motor=5.5kW; Filtration=1mic; Discharge=Bin. We need an item quantity of 3 units, and the item deadline is 2026-05-13.",,2026-05-13
+"To: dust.collection@factory.example.com
+From: planning.officer+75@factory.example.com
+Subject: Flexible Ducts SN-0075
+
+Hi,
+
+We have opened Serial Number SN-0075 for the item named ""Flexible Duct FD-75"". The item description is: flexible ducting used in the dust extraction system. The item specification is: Diameter=150mm; Length=10m; Material=PVC Reinforced; Color=Grey. Please arrange an item quantity of 45 units, and the item deadline is 2026-05-14.
+
+Thanks,
+Planning",dust.collection@factory.example.com,planning.officer+75@factory.example.com,Flexible Ducts SN-0075,"Hi,
+
+We have opened Serial Number SN-0075 for the item named ""Flexible Duct FD-75"". The item description is: flexible ducting used in the dust extraction system. The item specification is: Diameter=150mm; Length=10m; Material=PVC Reinforced; Color=Grey. Please arrange an item quantity of 45 units, and the item deadline is 2026-05-14.
+
+Thanks,
+Planning",SN-0075,Flexible Duct FD-75,"flexible ducting used in the dust extraction system. The item specification is: Diameter=150mm; Length=10m; Material=PVC Reinforced; Color=Grey. Please arrange an item quantity of 45 units, and the item deadline is 2026-05-14.","Diameter=150mm; Length=10m; Material=PVC Reinforced; Color=Grey. Please arrange an item quantity of 45 units, and the item deadline is 2026-05-14.",,2026-05-14
+"To: lighting.shop@factory.example.com
+From: planning.officer+76@factory.example.com
+Subject: LED Lighting Fixtures SN-0076
+
+Hello Lighting Team,
+
+Serial Number SN-0076 corresponds to the item named ""LED Lighting Fixture LLF-76"". The item description is: LED batten light used for production area illumination. The item specification is: Power=36W; Length=4ft; CCT=5000K; IP=IP65. The required item quantity is 130 units, and the item deadline is 2026-05-15.
+
+Regards,
+Planning",lighting.shop@factory.example.com,planning.officer+76@factory.example.com,LED Lighting Fixtures SN-0076,"Hello Lighting Team,
+
+Serial Number SN-0076 corresponds to the item named ""LED Lighting Fixture LLF-76"". The item description is: LED batten light used for production area illumination. The item specification is: Power=36W; Length=4ft; CCT=5000K; IP=IP65. The required item quantity is 130 units, and the item deadline is 2026-05-15.
+
+Regards,
+Planning",SN-0076,LED Lighting Fixture LLF-76,"LED batten light used for production area illumination. The item specification is: Power=36W; Length=4ft; CCT=5000K; IP=IP65. The required item quantity is 130 units, and the item deadline is 2026-05-15.","Power=36W; Length=4ft; CCT=5000K; IP=IP65. The required item quantity is 130 units, and the item deadline is 2026-05-15.",130,2026-05-15
+"To: power.distribution@factory.example.com
+From: planning.officer+77@factory.example.com
+Subject: Busbar Trunking SN-0077
+
+Hi,
+
+We have created Serial Number SN-0077 for the item named ""Busbar Trunking BT-77"". The item description is: busbar trunking used for power distribution across bays. The item specification is: Rating=800A; Length=4m; Conductors=Aluminum; IP=IP54. Please supply an item quantity of 14 units, and the item deadline is 2026-05-16.
+
+Best,
+Planning",power.distribution@factory.example.com,planning.officer+77@factory.example.com,Busbar Trunking SN-0077,"Hi,
+
+We have created Serial Number SN-0077 for the item named ""Busbar Trunking BT-77"". The item description is: busbar trunking used for power distribution across bays. The item specification is: Rating=800A; Length=4m; Conductors=Aluminum; IP=IP54. Please supply an item quantity of 14 units, and the item deadline is 2026-05-16.
+
+Best,
+Planning",SN-0077,Busbar Trunking BT-77,"busbar trunking used for power distribution across bays. The item specification is: Rating=800A; Length=4m; Conductors=Aluminum; IP=IP54. Please supply an item quantity of 14 units, and the item deadline is 2026-05-16.","Rating=800A; Length=4m; Conductors=Aluminum; IP=IP54. Please supply an item quantity of 14 units, and the item deadline is 2026-05-16.",,2026-05-16
+"To: power.distribution@factory.example.com
+From: planning.officer+78@factory.example.com
+Subject: Feeder Pillars SN-0078
+
+Team,
+
+Serial Number SN-0078 refers to the item named ""Feeder Pillar FP-78"". The item description is: outdoor feeder pillar used for utility power distribution. The item specification is: Rating=400A; Voltage=415VAC; IP=IP55; Finish=Outdoor Paint. We need an item quantity of 5 units, and the item deadline is 2026-05-17.
+
+Regards,
+Planning",power.distribution@factory.example.com,planning.officer+78@factory.example.com,Feeder Pillars SN-0078,"Team,
+
+Serial Number SN-0078 refers to the item named ""Feeder Pillar FP-78"". The item description is: outdoor feeder pillar used for utility power distribution. The item specification is: Rating=400A; Voltage=415VAC; IP=IP55; Finish=Outdoor Paint. We need an item quantity of 5 units, and the item deadline is 2026-05-17.
+
+Regards,
+Planning",SN-0078,Feeder Pillar FP-78,"outdoor feeder pillar used for utility power distribution. The item specification is: Rating=400A; Voltage=415VAC; IP=IP55; Finish=Outdoor Paint. We need an item quantity of 5 units, and the item deadline is 2026-05-17.","Rating=400A; Voltage=415VAC; IP=IP55; Finish=Outdoor Paint. We need an item quantity of 5 units, and the item deadline is 2026-05-17.",,2026-05-17
+"To: earthing.systems@factory.example.com
+From: planning.officer+79@factory.example.com
+Subject: Earthing Strips SN-0079
+
+Hello,
+
+We are raising Serial Number SN-0079 for the item named ""Earthing Strip ES-79"". The item description is: GI earthing strip used for plant earthing networks. The item specification is: Size=50x6mm; Coating=Hot Dip Galvanized; Length=6m. The planned item quantity is 90 units, and the item deadline is 2026-05-18.
+
+Thanks,
+Planning",earthing.systems@factory.example.com,planning.officer+79@factory.example.com,Earthing Strips SN-0079,"Hello,
+
+We are raising Serial Number SN-0079 for the item named ""Earthing Strip ES-79"". The item description is: GI earthing strip used for plant earthing networks. The item specification is: Size=50x6mm; Coating=Hot Dip Galvanized; Length=6m. The planned item quantity is 90 units, and the item deadline is 2026-05-18.
+
+Thanks,
+Planning",SN-0079,Earthing Strip ES-79,"GI earthing strip used for plant earthing networks. The item specification is: Size=50x6mm; Coating=Hot Dip Galvanized; Length=6m. The planned item quantity is 90 units, and the item deadline is 2026-05-18.","Size=50x6mm; Coating=Hot Dip Galvanized; Length=6m. The planned item quantity is 90 units, and the item deadline is 2026-05-18.",90,2026-05-18
+"To: earthing.systems@factory.example.com
+From: planning.officer+80@factory.example.com
+Subject: Earth Pit Chambers SN-0080
+
+Hi,
+
+Serial Number SN-0080 corresponds to the item named ""Earth Pit Chamber EPC-80"". The item description is: earth pit inspection chamber used for earthing points. The item specification is: Material=Polymer Concrete; Size=300x300mm; Cover=Bolted. Please arrange an item quantity of 26 units, with an item deadline of 2026-05-19.
+
+Regards,
+Planning",earthing.systems@factory.example.com,planning.officer+80@factory.example.com,Earth Pit Chambers SN-0080,"Hi,
+
+Serial Number SN-0080 corresponds to the item named ""Earth Pit Chamber EPC-80"". The item description is: earth pit inspection chamber used for earthing points. The item specification is: Material=Polymer Concrete; Size=300x300mm; Cover=Bolted. Please arrange an item quantity of 26 units, with an item deadline of 2026-05-19.
+
+Regards,
+Planning",SN-0080,Earth Pit Chamber EPC-80,"earth pit inspection chamber used for earthing points. The item specification is: Material=Polymer Concrete; Size=300x300mm; Cover=Bolted. Please arrange an item quantity of 26 units, with an item deadline of 2026-05-19.","Material=Polymer Concrete; Size=300x300mm; Cover=Bolted. Please arrange an item quantity of 26 units, with an item deadline of 2026-05-19.",,
+"To: compressed.air@factory.example.com
+From: planning.officer+81@factory.example.com
+Subject: Air Receivers SN-0081
+
+Hello,
+
+We have opened Serial Number SN-0081 for the item named ""Air Receiver AR-81"". The item description is: vertical air receiver tank used for compressed air storage. The item specification is: Capacity=2000L; Pressure=10bar; Material=IS2062; Coating=Epoxy. The required item quantity is 2 units, and the item deadline is 2026-05-20.
+
+Best,
+Planning",compressed.air@factory.example.com,planning.officer+81@factory.example.com,Air Receivers SN-0081,"Hello,
+
+We have opened Serial Number SN-0081 for the item named ""Air Receiver AR-81"". The item description is: vertical air receiver tank used for compressed air storage. The item specification is: Capacity=2000L; Pressure=10bar; Material=IS2062; Coating=Epoxy. The required item quantity is 2 units, and the item deadline is 2026-05-20.
+
+Best,
+Planning",SN-0081,Air Receiver AR-81,"vertical air receiver tank used for compressed air storage. The item specification is: Capacity=2000L; Pressure=10bar; Material=IS2062; Coating=Epoxy. The required item quantity is 2 units, and the item deadline is 2026-05-20.","Capacity=2000L; Pressure=10bar; Material=IS2062; Coating=Epoxy. The required item quantity is 2 units, and the item deadline is 2026-05-20.",2,2026-05-20
+"To: compressed.air@factory.example.com
+From: planning.officer+82@factory.example.com
+Subject: Condensate Traps SN-0082
+
+Team,
+
+Serial Number SN-0082 is associated with the item named ""Condensate Trap CT-82"". The item description is: automatic condensate trap used on compressed air lines. The item specification is: Connection=1/2 inch; Pressure=0-16bar; Body=Aluminum; Type=Float. Please supply an item quantity of 36 units, and the item deadline is 2026-05-21.
+
+Regards,
+Planning",compressed.air@factory.example.com,planning.officer+82@factory.example.com,Condensate Traps SN-0082,"Team,
+
+Serial Number SN-0082 is associated with the item named ""Condensate Trap CT-82"". The item description is: automatic condensate trap used on compressed air lines. The item specification is: Connection=1/2 inch; Pressure=0-16bar; Body=Aluminum; Type=Float. Please supply an item quantity of 36 units, and the item deadline is 2026-05-21.
+
+Regards,
+Planning",SN-0082,Condensate Trap CT-82,"automatic condensate trap used on compressed air lines. The item specification is: Connection=1/2 inch; Pressure=0-16bar; Body=Aluminum; Type=Float. Please supply an item quantity of 36 units, and the item deadline is 2026-05-21.","Connection=1/2 inch; Pressure=0-16bar; Body=Aluminum; Type=Float. Please supply an item quantity of 36 units, and the item deadline is 2026-05-21.",,2026-05-21
+"To: compressed.air@factory.example.com
+From: planning.officer+83@factory.example.com
+Subject: Refrigerated Air Dryers SN-0083
+
+Hi,
+
+We are creating Serial Number SN-0083 for the item named ""Refrigerated Air Dryer RAD-83"". The item description is: refrigerated dryer used in the compressed air system. The item specification is: Capacity=1000CFM; Voltage=415VAC; Dew Point=+3C; Refrigerant=R134a. The required item quantity is 3 units, and the item deadline is 2026-05-22.
+
+Thanks,
+Planning",compressed.air@factory.example.com,planning.officer+83@factory.example.com,Refrigerated Air Dryers SN-0083,"Hi,
+
+We are creating Serial Number SN-0083 for the item named ""Refrigerated Air Dryer RAD-83"". The item description is: refrigerated dryer used in the compressed air system. The item specification is: Capacity=1000CFM; Voltage=415VAC; Dew Point=+3C; Refrigerant=R134a. The required item quantity is 3 units, and the item deadline is 2026-05-22.
+
+Thanks,
+Planning",SN-0083,Refrigerated Air Dryer RAD-83,"refrigerated dryer used in the compressed air system. The item specification is: Capacity=1000CFM; Voltage=415VAC; Dew Point=+3C; Refrigerant=R134a. The required item quantity is 3 units, and the item deadline is 2026-05-22.","Capacity=1000CFM; Voltage=415VAC; Dew Point=+3C; Refrigerant=R134a. The required item quantity is 3 units, and the item deadline is 2026-05-22.",3,2026-05-22
+"To: compressed.air@factory.example.com
+From: planning.officer+84@factory.example.com
+Subject: Oil-Free Compressors SN-0084
+
+Hello,
+
+Serial Number SN-0084 refers to the item named ""Oil-Free Compressor OFC-84"". The item description is: oil-free screw compressor used for instrument air. The item specification is: Power=45kW; Pressure=7.5bar; Voltage=415VAC; Cooling=Air Cooled. Please arrange an item quantity of 2 units, with an item deadline of 2026-05-23.
+
+Best,
+Planning",compressed.air@factory.example.com,planning.officer+84@factory.example.com,Oil-Free Compressors SN-0084,"Hello,
+
+Serial Number SN-0084 refers to the item named ""Oil-Free Compressor OFC-84"". The item description is: oil-free screw compressor used for instrument air. The item specification is: Power=45kW; Pressure=7.5bar; Voltage=415VAC; Cooling=Air Cooled. Please arrange an item quantity of 2 units, with an item deadline of 2026-05-23.
+
+Best,
+Planning",SN-0084,Oil-Free Compressor OFC-84,"oil-free screw compressor used for instrument air. The item specification is: Power=45kW; Pressure=7.5bar; Voltage=415VAC; Cooling=Air Cooled. Please arrange an item quantity of 2 units, with an item deadline of 2026-05-23.","Power=45kW; Pressure=7.5bar; Voltage=415VAC; Cooling=Air Cooled. Please arrange an item quantity of 2 units, with an item deadline of 2026-05-23.",,
+"To: instrumentation.cell@factory.example.com
+From: planning.officer+85@factory.example.com
+Subject: Instrument Cabinets SN-0085
+
+Hi Instrumentation Team,
+
+We have created Serial Number SN-0085 for the item named ""Instrument Cabinet IC-85"". The item description is: field-mounted cabinet used for instrumentation modules. The item specification is: Material=SS304; Size=800x600x300mm; IP=IP66; Mounting=Wall. The required item quantity is 15 units, and the item deadline is 2026-05-24.
+
+Thanks,
+Planning",instrumentation.cell@factory.example.com,planning.officer+85@factory.example.com,Instrument Cabinets SN-0085,"Hi Instrumentation Team,
+
+We have created Serial Number SN-0085 for the item named ""Instrument Cabinet IC-85"". The item description is: field-mounted cabinet used for instrumentation modules. The item specification is: Material=SS304; Size=800x600x300mm; IP=IP66; Mounting=Wall. The required item quantity is 15 units, and the item deadline is 2026-05-24.
+
+Thanks,
+Planning",SN-0085,Instrument Cabinet IC-85,"field-mounted cabinet used for instrumentation modules. The item specification is: Material=SS304; Size=800x600x300mm; IP=IP66; Mounting=Wall. The required item quantity is 15 units, and the item deadline is 2026-05-24.","Material=SS304; Size=800x600x300mm; IP=IP66; Mounting=Wall. The required item quantity is 15 units, and the item deadline is 2026-05-24.",15,2026-05-24
+"To: instrumentation.cell@factory.example.com
+From: planning.officer+86@factory.example.com
+Subject: Manifold Valves SN-0086
+
+Team,
+
+Serial Number SN-0086 is for the item named ""Manifold Valve MV-86"". The item description is: two-valve manifold used for pressure transmitter isolation. The item specification is: Material=SS316; Connection=1/2 inch NPT; Rating=6000psi; Type=Block+Bleed. Please supply an item quantity of 40 units, with an item deadline of 2026-05-25.
+
+Regards,
+Planning",instrumentation.cell@factory.example.com,planning.officer+86@factory.example.com,Manifold Valves SN-0086,"Team,
+
+Serial Number SN-0086 is for the item named ""Manifold Valve MV-86"". The item description is: two-valve manifold used for pressure transmitter isolation. The item specification is: Material=SS316; Connection=1/2 inch NPT; Rating=6000psi; Type=Block+Bleed. Please supply an item quantity of 40 units, with an item deadline of 2026-05-25.
+
+Regards,
+Planning",SN-0086,Manifold Valve MV-86,"two-valve manifold used for pressure transmitter isolation. The item specification is: Material=SS316; Connection=1/2 inch NPT; Rating=6000psi; Type=Block+Bleed. Please supply an item quantity of 40 units, with an item deadline of 2026-05-25.","Material=SS316; Connection=1/2 inch NPT; Rating=6000psi; Type=Block+Bleed. Please supply an item quantity of 40 units, with an item deadline of 2026-05-25.",,
+"To: instrumentation.cell@factory.example.com
+From: planning.officer+87@factory.example.com
+Subject: Impulse Tubing SN-0087
+
+Hello,
+
+We are raising Serial Number SN-0087 for the item named ""Impulse Tubing IT-87"". The item description is: SS impulse tubing used for pressure connections. The item specification is: Material=SS316; Size=1/2 inch OD; Thickness=1.5mm; Length=6m. The required item quantity is 95 units, and the item deadline is 2026-05-26.
+
+Best,
+Planning",instrumentation.cell@factory.example.com,planning.officer+87@factory.example.com,Impulse Tubing SN-0087,"Hello,
+
+We are raising Serial Number SN-0087 for the item named ""Impulse Tubing IT-87"". The item description is: SS impulse tubing used for pressure connections. The item specification is: Material=SS316; Size=1/2 inch OD; Thickness=1.5mm; Length=6m. The required item quantity is 95 units, and the item deadline is 2026-05-26.
+
+Best,
+Planning",SN-0087,Impulse Tubing IT-87,"SS impulse tubing used for pressure connections. The item specification is: Material=SS316; Size=1/2 inch OD; Thickness=1.5mm; Length=6m. The required item quantity is 95 units, and the item deadline is 2026-05-26.","Material=SS316; Size=1/2 inch OD; Thickness=1.5mm; Length=6m. The required item quantity is 95 units, and the item deadline is 2026-05-26.",95,2026-05-26
+"To: valves.shop@factory.example.com
+From: planning.officer+88@factory.example.com
+Subject: Solenoid Valves SN-0088
+
+Hi Valves Team,
+
+Serial Number SN-0088 has been assigned to the item named ""Solenoid Valve SV-88"". The item description is: pilot-operated solenoid valve used on the process line. The item specification is: Size=1 inch; Body=Bronze; Voltage=230VAC; Media=Water. Please arrange an item quantity of 52 units, and the item deadline is 2026-05-27.
+
+Thanks,
+Planning",valves.shop@factory.example.com,planning.officer+88@factory.example.com,Solenoid Valves SN-0088,"Hi Valves Team,
+
+Serial Number SN-0088 has been assigned to the item named ""Solenoid Valve SV-88"". The item description is: pilot-operated solenoid valve used on the process line. The item specification is: Size=1 inch; Body=Bronze; Voltage=230VAC; Media=Water. Please arrange an item quantity of 52 units, and the item deadline is 2026-05-27.
+
+Thanks,
+Planning",SN-0088,Solenoid Valve SV-88,"pilot-operated solenoid valve used on the process line. The item specification is: Size=1 inch; Body=Bronze; Voltage=230VAC; Media=Water. Please arrange an item quantity of 52 units, and the item deadline is 2026-05-27.","Size=1 inch; Body=Bronze; Voltage=230VAC; Media=Water. Please arrange an item quantity of 52 units, and the item deadline is 2026-05-27.",,2026-05-27
+"To: valves.shop@factory.example.com
+From: planning.officer+89@factory.example.com
+Subject: Diaphragm Valves SN-0089
+
+Team,
+
+We have created Serial Number SN-0089 for the item named ""Diaphragm Valve DV-89"". The item description is: manual diaphragm valve used on CIP lines. The item specification is: Size=DN40; Body=SS316L; End=Tri-clamp; Finish=Electropolished. The planned item quantity is 38 units, and the item deadline is 2026-05-28.
+
+Regards,
+Planning",valves.shop@factory.example.com,planning.officer+89@factory.example.com,Diaphragm Valves SN-0089,"Team,
+
+We have created Serial Number SN-0089 for the item named ""Diaphragm Valve DV-89"". The item description is: manual diaphragm valve used on CIP lines. The item specification is: Size=DN40; Body=SS316L; End=Tri-clamp; Finish=Electropolished. The planned item quantity is 38 units, and the item deadline is 2026-05-28.
+
+Regards,
+Planning",SN-0089,Diaphragm Valve DV-89,"manual diaphragm valve used on CIP lines. The item specification is: Size=DN40; Body=SS316L; End=Tri-clamp; Finish=Electropolished. The planned item quantity is 38 units, and the item deadline is 2026-05-28.","Size=DN40; Body=SS316L; End=Tri-clamp; Finish=Electropolished. The planned item quantity is 38 units, and the item deadline is 2026-05-28.",38,2026-05-28
+"To: valves.shop@factory.example.com
+From: planning.officer+90@factory.example.com
+Subject: Sample Valves SN-0090
+
+Hello,
+
+Serial Number SN-0090 corresponds to the item named ""Sample Valve SV-90"". The item description is: hygienic sample valve used for product sampling. The item specification is: Connection=Tri-clamp; Body=SS316L; Seat=EPDM; Max Temp=135C. We require an item quantity of 26 units, and the item deadline is 2026-05-29.
+
+Best,
+Planning",valves.shop@factory.example.com,planning.officer+90@factory.example.com,Sample Valves SN-0090,"Hello,
+
+Serial Number SN-0090 corresponds to the item named ""Sample Valve SV-90"". The item description is: hygienic sample valve used for product sampling. The item specification is: Connection=Tri-clamp; Body=SS316L; Seat=EPDM; Max Temp=135C. We require an item quantity of 26 units, and the item deadline is 2026-05-29.
+
+Best,
+Planning",SN-0090,Sample Valve SV-90,"hygienic sample valve used for product sampling. The item specification is: Connection=Tri-clamp; Body=SS316L; Seat=EPDM; Max Temp=135C. We require an item quantity of 26 units, and the item deadline is 2026-05-29.","Connection=Tri-clamp; Body=SS316L; Seat=EPDM; Max Temp=135C. We require an item quantity of 26 units, and the item deadline is 2026-05-29.",,2026-05-29
+"To: heat.transfer@factory.example.com
+From: planning.officer+91@factory.example.com
+Subject: Plate Heat Exchangers SN-0091
+
+Hi,
+
+We are opening Serial Number SN-0091 for the item named ""Plate Heat Exchanger PHE-91"". The item description is: plate heat exchanger used for product heating. The item specification is: Plates=80; Material=SS316L; Duty=250kW; Gasket=EPDM. The required item quantity is 3 units, and the item deadline is 2026-05-30.
+
+Thanks,
+Planning",heat.transfer@factory.example.com,planning.officer+91@factory.example.com,Plate Heat Exchangers SN-0091,"Hi,
+
+We are opening Serial Number SN-0091 for the item named ""Plate Heat Exchanger PHE-91"". The item description is: plate heat exchanger used for product heating. The item specification is: Plates=80; Material=SS316L; Duty=250kW; Gasket=EPDM. The required item quantity is 3 units, and the item deadline is 2026-05-30.
+
+Thanks,
+Planning",SN-0091,Plate Heat Exchanger PHE-91,"plate heat exchanger used for product heating. The item specification is: Plates=80; Material=SS316L; Duty=250kW; Gasket=EPDM. The required item quantity is 3 units, and the item deadline is 2026-05-30.","Plates=80; Material=SS316L; Duty=250kW; Gasket=EPDM. The required item quantity is 3 units, and the item deadline is 2026-05-30.",3,2026-05-30
+"To: steam.systems@factory.example.com
+From: planning.officer+92@factory.example.com
+Subject: Steam Traps SN-0092
+
+Team,
+
+Serial Number SN-0092 relates to the item named ""Steam Trap ST-92"". The item description is: thermodynamic steam trap used for condensate removal. The item specification is: Size=15mm; Pressure=17bar; Body=Forged Steel; Connection=Screwed. The planned item quantity is 64 units, and the item deadline is 2026-05-31.
+
+Regards,
+Planning",steam.systems@factory.example.com,planning.officer+92@factory.example.com,Steam Traps SN-0092,"Team,
+
+Serial Number SN-0092 relates to the item named ""Steam Trap ST-92"". The item description is: thermodynamic steam trap used for condensate removal. The item specification is: Size=15mm; Pressure=17bar; Body=Forged Steel; Connection=Screwed. The planned item quantity is 64 units, and the item deadline is 2026-05-31.
+
+Regards,
+Planning",SN-0092,Steam Trap ST-92,"thermodynamic steam trap used for condensate removal. The item specification is: Size=15mm; Pressure=17bar; Body=Forged Steel; Connection=Screwed. The planned item quantity is 64 units, and the item deadline is 2026-05-31.","Size=15mm; Pressure=17bar; Body=Forged Steel; Connection=Screwed. The planned item quantity is 64 units, and the item deadline is 2026-05-31.",64,2026-05-31
+"To: steam.systems@factory.example.com
+From: planning.officer+93@factory.example.com
+Subject: Steam Hoses SN-0093
+
+Hello,
+
+We have created Serial Number SN-0093 for the item named ""Steam Hose SH-93"". The item description is: flexible steam hose used for cleaning stations. The item specification is: Size=3/4 inch; Pressure=10bar; Length=20m; Cover=Heat Resistant. Please arrange an item quantity of 44 units, and the item deadline is 2026-06-01.
+
+Best,
+Planning",steam.systems@factory.example.com,planning.officer+93@factory.example.com,Steam Hoses SN-0093,"Hello,
+
+We have created Serial Number SN-0093 for the item named ""Steam Hose SH-93"". The item description is: flexible steam hose used for cleaning stations. The item specification is: Size=3/4 inch; Pressure=10bar; Length=20m; Cover=Heat Resistant. Please arrange an item quantity of 44 units, and the item deadline is 2026-06-01.
+
+Best,
+Planning",SN-0093,Steam Hose SH-93,"flexible steam hose used for cleaning stations. The item specification is: Size=3/4 inch; Pressure=10bar; Length=20m; Cover=Heat Resistant. Please arrange an item quantity of 44 units, and the item deadline is 2026-06-01.","Size=3/4 inch; Pressure=10bar; Length=20m; Cover=Heat Resistant. Please arrange an item quantity of 44 units, and the item deadline is 2026-06-01.",,2026-06-01
+"To: insulation.shop@factory.example.com
+From: planning.officer+94@factory.example.com
+Subject: Insulation Mattresses SN-0094
+
+Hi,
+
+Serial Number SN-0094 has been assigned to the item named ""Insulation Mattress IM-94"". The item description is: removable insulation mattress used on process piping. The item specification is: Thickness=50mm; Material=Mineral Wool; Cover=Aluminum Cloth; Temp=250C. We need an item quantity of 90 units, and the item deadline is 2026-06-02.
+
+Thanks,
+Planning",insulation.shop@factory.example.com,planning.officer+94@factory.example.com,Insulation Mattresses SN-0094,"Hi,
+
+Serial Number SN-0094 has been assigned to the item named ""Insulation Mattress IM-94"". The item description is: removable insulation mattress used on process piping. The item specification is: Thickness=50mm; Material=Mineral Wool; Cover=Aluminum Cloth; Temp=250C. We need an item quantity of 90 units, and the item deadline is 2026-06-02.
+
+Thanks,
+Planning",SN-0094,Insulation Mattress IM-94,"removable insulation mattress used on process piping. The item specification is: Thickness=50mm; Material=Mineral Wool; Cover=Aluminum Cloth; Temp=250C. We need an item quantity of 90 units, and the item deadline is 2026-06-02.","Thickness=50mm; Material=Mineral Wool; Cover=Aluminum Cloth; Temp=250C. We need an item quantity of 90 units, and the item deadline is 2026-06-02.",,2026-06-02
+"To: piping.shop@factory.example.com
+From: planning.officer+95@factory.example.com
+Subject: Pipe Supports SN-0095
+
+Team,
+
+We are raising Serial Number SN-0095 for the item named ""Pipe Support PS-95"". The item description is: adjustable pipe support used for stainless piping. The item specification is: Pipe Size=DN50; Height=500-800mm; Material=SS304; Base=Anchor Type. Please supply an item quantity of 120 units, with an item deadline of 2026-06-03.
+
+Regards,
+Planning",piping.shop@factory.example.com,planning.officer+95@factory.example.com,Pipe Supports SN-0095,"Team,
+
+We are raising Serial Number SN-0095 for the item named ""Pipe Support PS-95"". The item description is: adjustable pipe support used for stainless piping. The item specification is: Pipe Size=DN50; Height=500-800mm; Material=SS304; Base=Anchor Type. Please supply an item quantity of 120 units, with an item deadline of 2026-06-03.
+
+Regards,
+Planning",SN-0095,Pipe Support PS-95,"adjustable pipe support used for stainless piping. The item specification is: Pipe Size=DN50; Height=500-800mm; Material=SS304; Base=Anchor Type. Please supply an item quantity of 120 units, with an item deadline of 2026-06-03.","Pipe Size=DN50; Height=500-800mm; Material=SS304; Base=Anchor Type. Please supply an item quantity of 120 units, with an item deadline of 2026-06-03.",,
+"To: piping.shop@factory.example.com
+From: planning.officer+96@factory.example.com
+Subject: Expansion Joints SN-0096
+
+Hello,
+
+Serial Number SN-0096 is for the item named ""Expansion Joint EJ-96"". The item description is: rubber expansion joint used for pipeline vibration isolation. The item specification is: Size=DN100; Length=150mm; Flange=PN16; Temperature=120C. The required item quantity is 22 units, and the item deadline is 2026-06-04.
+
+Best,
+Planning",piping.shop@factory.example.com,planning.officer+96@factory.example.com,Expansion Joints SN-0096,"Hello,
+
+Serial Number SN-0096 is for the item named ""Expansion Joint EJ-96"". The item description is: rubber expansion joint used for pipeline vibration isolation. The item specification is: Size=DN100; Length=150mm; Flange=PN16; Temperature=120C. The required item quantity is 22 units, and the item deadline is 2026-06-04.
+
+Best,
+Planning",SN-0096,Expansion Joint EJ-96,"rubber expansion joint used for pipeline vibration isolation. The item specification is: Size=DN100; Length=150mm; Flange=PN16; Temperature=120C. The required item quantity is 22 units, and the item deadline is 2026-06-04.","Size=DN100; Length=150mm; Flange=PN16; Temperature=120C. The required item quantity is 22 units, and the item deadline is 2026-06-04.",22,2026-06-04
+"To: pumping.station@factory.example.com
+From: planning.officer+97@factory.example.com
+Subject: Process Pumps SN-0097
+
+Hi Pumping Team,
+
+We have opened Serial Number SN-0097 for the item named ""Process Pump PP-97"". The item description is: centrifugal process pump used for product transfer. The item specification is: Flow=30m3/h; Head=40m; Motor=7.5kW; Material=SS316L. Please arrange an item quantity of 7 units, and the item deadline is 2026-06-05.
+
+Thanks,
+Planning",pumping.station@factory.example.com,planning.officer+97@factory.example.com,Process Pumps SN-0097,"Hi Pumping Team,
+
+We have opened Serial Number SN-0097 for the item named ""Process Pump PP-97"". The item description is: centrifugal process pump used for product transfer. The item specification is: Flow=30m3/h; Head=40m; Motor=7.5kW; Material=SS316L. Please arrange an item quantity of 7 units, and the item deadline is 2026-06-05.
+
+Thanks,
+Planning",SN-0097,Process Pump PP-97,"centrifugal process pump used for product transfer. The item specification is: Flow=30m3/h; Head=40m; Motor=7.5kW; Material=SS316L. Please arrange an item quantity of 7 units, and the item deadline is 2026-06-05.","Flow=30m3/h; Head=40m; Motor=7.5kW; Material=SS316L. Please arrange an item quantity of 7 units, and the item deadline is 2026-06-05.",,2026-06-05
+"To: pumping.station@factory.example.com
+From: planning.officer+98@factory.example.com
+Subject: Pump Base Frames SN-0098
+
+Team,
+
+Serial Number SN-0098 corresponds to the item named ""Pump Base Frame PBF-98"". The item description is: common base frame used for pump and motor mounting. The item specification is: Material=MS; Size=1600x600mm; Finish=Epoxy Painted; Pads=Levelling. The required item quantity is 14 units, and the item deadline is 2026-06-06.
+
+Regards,
+Planning",pumping.station@factory.example.com,planning.officer+98@factory.example.com,Pump Base Frames SN-0098,"Team,
+
+Serial Number SN-0098 corresponds to the item named ""Pump Base Frame PBF-98"". The item description is: common base frame used for pump and motor mounting. The item specification is: Material=MS; Size=1600x600mm; Finish=Epoxy Painted; Pads=Levelling. The required item quantity is 14 units, and the item deadline is 2026-06-06.
+
+Regards,
+Planning",SN-0098,Pump Base Frame PBF-98,"common base frame used for pump and motor mounting. The item specification is: Material=MS; Size=1600x600mm; Finish=Epoxy Painted; Pads=Levelling. The required item quantity is 14 units, and the item deadline is 2026-06-06.","Material=MS; Size=1600x600mm; Finish=Epoxy Painted; Pads=Levelling. The required item quantity is 14 units, and the item deadline is 2026-06-06.",14,2026-06-06
+"To: hose.assembly@factory.example.com
+From: planning.officer+99@factory.example.com
+Subject: Food Grade Hoses SN-0099
+
+Hello,
+
+We are creating Serial Number SN-0099 for the item named ""Food Grade Hose FH-99"". The item description is: flexible food-grade hose used for product transfer. The item specification is: Size=2 inch; Length=10m; Liner=PTFE; Braid=SS304. Please arrange an item quantity of 32 units, and the item deadline is 2026-06-07.
+
+Best,
+Planning",hose.assembly@factory.example.com,planning.officer+99@factory.example.com,Food Grade Hoses SN-0099,"Hello,
+
+We are creating Serial Number SN-0099 for the item named ""Food Grade Hose FH-99"". The item description is: flexible food-grade hose used for product transfer. The item specification is: Size=2 inch; Length=10m; Liner=PTFE; Braid=SS304. Please arrange an item quantity of 32 units, and the item deadline is 2026-06-07.
+
+Best,
+Planning",SN-0099,Food Grade Hose FH-99,"flexible food-grade hose used for product transfer. The item specification is: Size=2 inch; Length=10m; Liner=PTFE; Braid=SS304. Please arrange an item quantity of 32 units, and the item deadline is 2026-06-07.","Size=2 inch; Length=10m; Liner=PTFE; Braid=SS304. Please arrange an item quantity of 32 units, and the item deadline is 2026-06-07.",,2026-06-07
+"To: skid.fabrication@factory.example.com
+From: planning.officer+100@factory.example.com
+Subject: CIP Skid Frames SN-0100
+
+Hi Skid Team,
+
+Finally, Serial Number SN-0100 refers to the item named ""CIP Skid Frame CSF-100"". The item description is: structural skid frame used for CIP system assembly. The item specification is: Material=SS304; Size=2500x1500mm; Height=1800mm; Finish=Bead Blasted. The required item quantity is 3 units, and the item deadline is 2026-06-08.
+
+Regards,
+Planning",skid.fabrication@factory.example.com,planning.officer+100@factory.example.com,CIP Skid Frames SN-0100,"Hi Skid Team,
+
+Finally, Serial Number SN-0100 refers to the item named ""CIP Skid Frame CSF-100"". The item description is: structural skid frame used for CIP system assembly. The item specification is: Material=SS304; Size=2500x1500mm; Height=1800mm; Finish=Bead Blasted. The required item quantity is 3 units, and the item deadline is 2026-06-08.
+
+Regards,
+Planning",SN-0100,CIP Skid Frame CSF-100,"structural skid frame used for CIP system assembly. The item specification is: Material=SS304; Size=2500x1500mm; Height=1800mm; Finish=Bead Blasted. The required item quantity is 3 units, and the item deadline is 2026-06-08.","Material=SS304; Size=2500x1500mm; Height=1800mm; Finish=Bead Blasted. The required item quantity is 3 units, and the item deadline is 2026-06-08.",3,2026-06-08
