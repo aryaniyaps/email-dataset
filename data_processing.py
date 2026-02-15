@@ -5,34 +5,32 @@ from pathlib import Path
 INPUT_FILE = "data.txt"
 OUTPUT_FILE = "output.csv"
 
-# Regex patterns for header fields
+# Header regexes
 TO_RE = re.compile(r"^To:\s*(.+)", re.MULTILINE)
 FROM_RE = re.compile(r"^From:\s*(.+)", re.MULTILINE)
 SUBJECT_RE = re.compile(r"^Subject:\s*(.+)", re.MULTILINE)
 
-# Regex patterns for embedded details in body
-SERIAL_RE = re.compile(r"Serial Number\s+([A-Z0-9\-]+)")
+# Body regexes
+SERIAL_RE = re.compile(r"Serial Number\s+([A-Z0-9\-]+)", re.IGNORECASE)
 ITEM_NAME_RE = re.compile(r'item named\s+"([^"]+)"', re.IGNORECASE)
-DESC_RE = re.compile(r"item description is:\s*(.+?)\s*(?:\n|$)", re.IGNORECASE)
-SPEC_RE = re.compile(r"item specification is:\s*(.+?)\s*(?:\n|$)", re.IGNORECASE)
-QTY_RE = re.compile(r"item quantity is\s+(\d+)\s+units", re.IGNORECASE)
-# Also allow "The required item quantity is 150 units" etc.
-QTY_FALLBACK_RE = re.compile(r"item quantity\s+is\s+(\d+)\s+units", re.IGNORECASE)
+DESC_RE = re.compile(r"item description is:\s*(.+?)(?:\n|$)", re.IGNORECASE)
+SPEC_RE = re.compile(r"item specification is:\s*(.+?)(?:\n|$)", re.IGNORECASE)
+QTY_RE = re.compile(r"item quantity\s+is\s+(\d+)\s+units", re.IGNORECASE)
 QTY_GENERAL_RE = re.compile(r"item quantity\s+(\d+)\s+units", re.IGNORECASE)
-DEADLINE_RE = re.compile(r"item deadline is\s+([0-9\-]+)", re.IGNORECASE)
+DEADLINE_RE = re.compile(r"item deadline\s+is\s+([0-9\-]+)", re.IGNORECASE)
 
-def extract_first(pattern, text, default=""):
-    m = pattern.search(text)
+def extract_first(pat, text, default=""):
+    m = pat.search(text)
     return m.group(1).strip() if m else default
 
 def extract_quantity(text):
-    for pat in (QTY_RE, QTY_FALLBACK_RE, QTY_GENERAL_RE):
+    for pat in (QTY_RE, QTY_GENERAL_RE):
         m = pat.search(text)
         if m:
             return m.group(1).strip()
     return ""
 
-def parse_email_block(block: str) -> dict:
+def parse_email_block(block: str):
     block = block.strip()
     if not block:
         return None
@@ -41,14 +39,11 @@ def parse_email_block(block: str) -> dict:
     from_addr = extract_first(FROM_RE, block)
     subject = extract_first(SUBJECT_RE, block)
 
-    # Body = everything after the first blank line following Subject
-    # Find position of a blank line after Subject
+    # Body = everything after Subject line
     body = ""
-    subject_match = SUBJECT_RE.search(block)
-    if subject_match:
-        start = subject_match.end()
-        # From there onwards, strip leading newlines once
-        body = block[start:].lstrip("\n")
+    m = SUBJECT_RE.search(block)
+    if m:
+        body = block[m.end():].lstrip()
 
     serial_number = extract_first(SERIAL_RE, body)
     item_name = extract_first(ITEM_NAME_RE, body)
@@ -74,17 +69,14 @@ def parse_email_block(block: str) -> dict:
 def main():
     text = Path(INPUT_FILE).read_text(encoding="utf-8")
 
-    # Split by EMAIL START / END markers
-    raw_blocks = re.split(r"-{5}EMAIL START-{5}", text)
-    records = []
+    # IMPORTANT: split using the literal markers present in data.txt
+    raw_blocks = re.split(r"-{5}EMAIL START-{5}\s*", text)
 
+    records = []
     for blk in raw_blocks:
-        blk = blk.strip()
-        if not blk:
+        if "EMAIL END" not in blk:
             continue
-        # Ensure we only keep content up to EMAIL END for safety
-        if "-----EMAIL END-----" in blk:
-            blk = blk.split("-----EMAIL END-----", 1)[0].strip()
+        blk = blk.split("-----EMAIL END-----", 1)[0]
         rec = parse_email_block(blk)
         if rec:
             records.append(rec)
