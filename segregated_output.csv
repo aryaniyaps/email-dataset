@@ -1,0 +1,101 @@
+serial_number,item_name,item_description,item_specification,item_quantity,item_deadline
+SN-0001,Gear Assembly Type A1,precision-cut gear assembly for the primary conveyor drive stage,Material=Alloy Steel; Teeth=32; Module=2.5; Diameter=80mm; Finish=Heat Treated,150,2026-03-01
+SN-0002,Conveyor Belt Type C2,continuous rubber belt for the packaging line outfeed conveyor,Material=Reinforced Rubber; Length=18m; Width=800mm; Thickness=8mm; Ply=4,40,2026-03-02
+SN-0003,Optical Sensor Module OSM-3,reflective optical sensor assembly used for carton detection at the infeed,Voltage=24VDC; Range=0.2-2.0m; Output=PNP NO; IP Rating=IP65,75,2026-03-03
+SN-0004,Control Panel CP-4,main control panel for the batch mixer line including PLC and HMI,Enclosure=MS Powder Coated; PLC=32 I/O; HMI=7 inch; Supply=415VAC,6,2026-03-04
+SN-0005,Induction Motor Assembly IM-5,three-phase induction motor supplied with mounting brackets and terminal box,Power=5kW; Voltage=415VAC; Speed=1440rpm; Frame=112M; Protection=IP55,24,2026-03-05
+SN-0006,Pneumatic Cylinder PC-6,double-acting pneumatic cylinder used in the pusher mechanism on the packaging line,Bore=50mm; Stroke=200mm; Pressure=6bar; Mounting=Front Flange,60,2026-03-06
+SN-0007,Valve Manifold VM-7,solenoid valve manifold used for the pneumatic control circuits of the new filling line,Stations=8; Voltage=24VDC; Port Size=1/4 inch; Body=Aluminum,18,2026-03-07
+SN-0008,Stainless Steel Tank ST-8,mixing tank for liquid ingredients with a top-mounted agitator and cleanable interior,Capacity=1000L; Grade=SS304; Thickness=4mm; Finish=Sanitary,3,2026-03-08
+SN-0009,Agitator Shaft AS-9,shaft assembly used in the stainless mixing tank agitator for homogenization,Material=SS316; Diameter=45mm; Length=1800mm; Balance=G6.3,9,2026-03-09
+SN-0010,Bearing Housing BH-10,plummer block bearing housing for the main conveyor drive shaft,Size=UCP210; Material=Cast Iron; Finish=Painted; Seal=Standard,30,2026-03-10
+SN-0011,Chain Sprocket CS-11,drive sprocket used in the roller chain transmission of the secondary conveyor,Pitch=1 inch; Teeth=24; Bore=30mm; Material=C45 Steel,55,2026-03-11
+SN-0012,Roller Chain RC-12,heavy-duty roller chain intended for the conveyor drive system,Pitch=1 inch; Strand=Simplex; Length=30m; Standard=ISO,10,2026-03-12
+SN-0013,Electrical Junction Box EJ-13,IP-rated junction box used for field wiring terminations along the process line,Size=200x200x120mm; Material=Polycarbonate; IP=IP65; Entries=6,80,2026-03-13
+SN-0014,Inductive Proximity Sensor IPS-14,metal-sensing inductive sensor used for position feedback and counting,Type=M18; Range=8mm; Output=NPN NO; Voltage=10-30VDC,90,2026-03-14
+SN-0015,Cable Harness CH-15,pre-terminated cable harness used for internal control panel wiring,Cores=24; Length=6m; Conductor=1.5sqmm; Jacket=PVC,45,2026-03-15
+SN-0016,Power Distribution Board PDB-16,floor-mounted distribution board for plant utility loads,Incomer=250A MCCB; Outgoing=16 Ways; Voltage=415VAC; IP=IP42,4,2026-03-16
+SN-0017,Electromagnetic Flow Meter FM-17,inline flow meter used for the water dosing system in the process area,Line Size=DN50; Range=0.5-25m3/h; Output=4-20mA; Supply=230VAC,7,2026-03-17
+SN-0018,Pressure Transmitter PT-18,transmitter for monitoring line pressure in the utility pipelines,Range=0-16bar; Output=4-20mA; Process=1/2 inch NPT; Accuracy=0.5%FS,22,2026-03-18
+SN-0019,Level Sensor LS-19,vertical float level sensor used in storage tanks for high/low indication,Mounting=Top; Contacts=2; Material=SS304; Length=1200mm,28,2026-03-19
+SN-0020,Hopper Assembly HA-20,mild steel hopper used for granular material feeding into screw conveyors,Capacity=500L; Wall=3mm; Finish=Epoxy Painted; Inlet=300mm,5,2026-03-20
+SN-0021,Feeder Screw FS-21,screw feeder used for controlled discharge of material from the hopper,Diameter=150mm; Pitch=150mm; Length=2200mm; Material=SS304,8,2026-03-21
+SN-0022,Support Frame SF-22,structural frame used for mounting process equipment skids,Material=MS; Section=50x50x5mm; Height=1800mm; Finish=Primer+Paint,12,2026-03-22
+SN-0023,Safety Guard Panel GP-23,mesh guard panels used around rotating equipment,Mesh=40x40mm; Frame=25x25x3mm; Height=2000mm; Color=Yellow,36,2026-03-23
+SN-0024,Label Printer LP-24,thermal label printer used for carton identification labels on the line,Resolution=300dpi; Width=108mm; Interface=USB+Ethernet; Supply=230VAC,11,2026-03-24
+SN-0025,Printhead Assembly PA-25,replacement printhead unit for the installed thermal printers,Resolution=300dpi; Width=4 inch; Connector=Standard OEM; Life=50km,27,2026-03-25
+SN-0026,Wooden Pallet WP-26,standard wooden pallet used for finished goods storage in the warehouse,Size=1200x1000mm; Load=1000kg; Deck=Closed; Treatment=Heat Treated,140,2026-03-26
+SN-0027,Shrink Film Roll SF-27,polyolefin shrink film used for bundle wrapping of cartons,Width=450mm; Thickness=20mic; Length=1000m; Color=Transparent,60,2026-03-27
+SN-0028,Corner Protector CP-28,cardboard corner protectors used on palletized loads to prevent edge damage,Length=1200mm; Leg=60x60mm; Thickness=4mm; Color=Brown,250,2026-03-28
+SN-0029,PP Strapping Roll SR-29,polypropylene strapping used for carton bundling and pallet securing,Width=12mm; Thickness=0.8mm; Length=2000m; Color=White,90,2026-03-29
+SN-0030,Strapping Tool ST-30,manual tensioner and sealer used for PP strap tightening,Strap Width=12-16mm; Type=Manual; Body=Steel; Grip=Ergonomic,35,2026-03-30
+SN-0031,Carton Erector Frame CEF-31,mechanical frame for the automatic carton erecting machine,Material=MS; Base=1200x800mm; Height=1600mm; Finish=Powder Coat,6,2026-03-31
+SN-0032,Vacuum Suction Cup VSC-32,suction cup for the pick-and-place robotic arm handling cartons,Diameter=60mm; Material=NBR; Mount=G1/4 inch; Hardness=60 Shore,160,2026-04-01
+SN-0033,Vacuum Generator VG-33,venturi-type vacuum generator used in the carton handling system,Supply=6bar; Vacuum=-85kPa; Port=G1/4 inch; Body=Aluminum,32,2026-04-02
+SN-0034,Air Filter Regulator AFR-34,filter-regulator unit used on the plant compressed air line,Port Size=1/2 inch; Pressure=0-10bar; Filter=40mic; Bowl=Polycarbonate,48,2026-04-03
+SN-0035,Air Lubricator AL-35,inline lubricator used for pneumatic tool supply,Port Size=1/2 inch; Capacity=150ml; Material=Aluminum+Polycarbonate,42,2026-04-04
+SN-0036,Helical Gearbox HG-36,inline helical gearbox used for conveyor drive reduction,Ratio=20:1; Power=3kW; Mounting=Foot; Service Factor=1.4,14,2026-04-05
+SN-0037,Flexible Coupling FC-37,flexible coupling installed between motor and gearbox shaft,Type=Jaw; Bore1=28mm; Bore2=35mm; Insert=PU,26,2026-04-06
+SN-0038,Conveyor Roller CR-38,gravity conveyor roller for idle roller sections on the line,Diameter=50mm; Length=600mm; Material=MS Zinc Plated; Bearing=6201,210,2026-04-07
+SN-0039,Side Guide Rail SGR-39,adjustable side guide rail for bottle conveyor sections,Material=UHMWPE; Length=3000mm; Height=80mm; Color=Green,70,2026-04-08
+SN-0040,Support Bracket SB-40,bracket used for mounting side guide rails on conveyor frames,Material=SS304; Slot Length=60mm; Thickness=5mm; Finish=Brushed,120,2026-04-09
+SN-0041,Photoeye Mount PM-41,adjustable mounting bracket for optical sensors on conveyors,Material=SS304; Height=300mm; Base=80x80mm; Adjustment=3 Axis,65,2026-04-10
+SN-0042,HMI Stand HS-42,floor stand used to mount the operator HMI terminal,Height=1400mm; Base=400x400mm; Tilt=30 Degrees; Material=MS,9,2026-04-11
+SN-0043,Cable Tray CT-43,perforated cable tray used for control cable routing,Width=300mm; Height=50mm; Thickness=1.6mm; Finish=GI,110,2026-04-12
+SN-0044,Cable Trunking CTr-44,closed cable trunking used for routing power cables,Width=150mm; Height=100mm; Thickness=2mm; Finish=Powder Coat,60,2026-04-13
+SN-0045,MCC Enclosure MCC-45,motor control center enclosure with multiple feeders,Form=3B; Incomer=400A; Feeder=12 Starters; IP=IP42,2,2026-04-14
+SN-0046,VFD Panel VP-46,variable frequency drive panel used for speed control of motors,Power=22kW; Input=415VAC; Drives=3 Nos; Cooling=Forced Air,3,2026-04-15
+SN-0047,Terminal Block Set TB-47,DIN-rail mounted terminal block kit used inside control panels,Type=Feed Through; Size=2.5sqmm; Color=Grey; Accessories=End Plate+Stopper,260,2026-04-16
+SN-0048,Cable Gland CG-48,brass cable glands used for armored cable terminations,Size=25mm; Thread=Metric; IP=IP68; Finish=Nickel Plated,190,2026-04-17
+SN-0049,Push Button Station PBS-49,start-stop push button station used for local machine control,Enclosure=IP65; Buttons=2; Contact=1NO+1NC; Color=Green+Red,58,2026-04-18
+SN-0050,Signal Tower ST-50,three-tier signal tower light used for indicating machine status,Colors=Red+Amber+Green; Voltage=24VDC; Mount=Pole; Buzzer=Yes,34,2026-04-19
+SN-0051,Safety Relay SR-51,safety monitoring relay used in emergency circuits,Inputs=Dual Channel; Output=3NO+1NC; Voltage=24VDC; Category=4,18,2026-04-20
+SN-0052,Emergency Stop Station ESS-52,mushroom-head emergency stop with enclosure for field mounting,Head Size=40mm; Latching=Twist Release; Contacts=2NC; IP=IP65,40,2026-04-21
+SN-0053,Safety Light Curtain LC-53,presence-sensing light curtain used for access guarding,Height=900mm; Resolution=30mm; Range=0.3-7m; SIL=2,5,2026-04-22
+SN-0054,Guard Interlock Switch GIS-54,coded interlock switch used for safety gate monitoring,Type=Non-contact; Voltage=24VDC; Contacts=2NO+1NC; Housing=Plastic,33,2026-04-23
+SN-0055,Barcode Scanner BCS-55,fixed-mount barcode scanner used for line tracking of cartons,Type=1D/2D; Interface=Ethernet; Range=100-600mm; IP=IP65,17,2026-04-24
+SN-0056,RFID Reader RFR-56,UHF RFID reader used for pallet identification in dispatch,Frequency=865-867MHz; Interface=TCP/IP; Antennas=4 Ports; Power=30dBm,9,2026-04-25
+SN-0057,RFID Tag RFT-57,UHF RFID tag used for pallet and container tracking,Type=On-metal; Memory=128bit EPC; Size=60x20mm; Protection=IP68,520,2026-04-26
+SN-0058,Weighing Platform WP-58,floor scale platform used for tote weighing,Size=1000x1000mm; Capacity=1000kg; Material=SS Top; Loadcells=4,6,2026-04-27
+SN-0059,Load Cell LC-59,shear beam load cell used in platform scales,Capacity=500kg; Output=2mV/V; Protection=IP67; Material=Alloy Steel,28,2026-04-28
+SN-0060,Weighing Junction Box WJB-60,summing junction box used for load cell connections,Channels=4; Material=SS304; IP=IP65; Cable Glands=4 Nos,20,2026-04-29
+SN-0061,Checkweigher Frame CF-61,structural frame for in-line checkweigher units,Material=SS304; Belt Width=400mm; Height=900mm; Finish=Polished,4,2026-04-30
+SN-0062,Rejector Arm RA-62,pneumatic pusher arm used for checkweigher reject stations,Stroke=250mm; Bore=63mm; Material=SS304; Mounting=Side,10,2026-05-01
+SN-0063,Servo Motor SM-63,servo motor used for high-speed indexing systems,Power=1.5kW; Voltage=230VAC; Encoder=20bit; Protection=IP65,16,2026-05-02
+SN-0064,Servo Drive SD-64,digital servo drive used for motion control axes,Power=1.5kW; Interface=EtherCAT; Supply=230VAC; I/O=16,16,2026-05-03
+SN-0065,Linear Guide LG-65,linear motion guide rail with blocks for positioning axes,Size=20mm; Length=2200mm; Blocks=2; Accuracy=H Class,22,2026-05-04
+SN-0066,Ball Screw BS-66,precision ball screw used for linear positioning,Diameter=25mm; Lead=10mm; Length=1500mm; Nut=Single,14,2026-05-05
+SN-0067,Guide Post GP-67,guide post used in stamping and forming tools,Diameter=25mm; Length=300mm; Material=Tool Steel; Finish=Ground,60,2026-05-06
+SN-0068,Die Set Plate DSP-68,upper and lower plates for die set assemblies,Material=EN31; Thickness=40mm; Size=400x300mm; Finish=Ground,12,2026-05-07
+SN-0069,Punch Insert PI-69,interchangeable punch insert used in blanking tools,Material=HSS; Hardness=60HRC; Shape=Round; Diameter=20mm,80,2026-05-08
+SN-0070,Die Insert DI-70,matching die insert used with punch PI-69,Material=HSS; Clearance=0.1mm; Diameter=20.2mm; Hardness=60HRC,80,2026-05-09
+SN-0071,Cooling Fan CF-71,panel-mounted cooling fan used for electrical enclosures,Size=120x120mm; Voltage=230VAC; Flow=120CFM; Filter=Yes,70,2026-05-10
+SN-0072,Panel Air Conditioner PAC-72,enclosure air conditioner used for temperature control,Capacity=1000W; Voltage=230VAC; Mounting=Side; IP=IP54,8,2026-05-11
+SN-0073,Oil Skimmer OS-73,belt-type oil skimmer used in coolant tanks,Belt Width=50mm; Reach=400mm; Motor=0.1kW; Voltage=230VAC,11,2026-05-12
+SN-0074,Dust Collector DC-74,cartridge-type dust collector used for cutting stations,Airflow=3000m3/h; Motor=5.5kW; Filtration=1mic; Discharge=Bin,3,2026-05-13
+SN-0075,Flexible Duct FD-75,flexible ducting used in the dust extraction system,Diameter=150mm; Length=10m; Material=PVC Reinforced; Color=Grey,45,2026-05-14
+SN-0076,LED Lighting Fixture LLF-76,LED batten light used for production area illumination,Power=36W; Length=4ft; CCT=5000K; IP=IP65,130,2026-05-15
+SN-0077,Busbar Trunking BT-77,busbar trunking used for power distribution across bays,Rating=800A; Length=4m; Conductors=Aluminum; IP=IP54,14,2026-05-16
+SN-0078,Feeder Pillar FP-78,outdoor feeder pillar used for utility power distribution,Rating=400A; Voltage=415VAC; IP=IP55; Finish=Outdoor Paint,5,2026-05-17
+SN-0079,Earthing Strip ES-79,GI earthing strip used for plant earthing networks,Size=50x6mm; Coating=Hot Dip Galvanized; Length=6m,90,2026-05-18
+SN-0080,Earth Pit Chamber EPC-80,earth pit inspection chamber used for earthing points,Material=Polymer Concrete; Size=300x300mm; Cover=Bolted,26,2026-05-19
+SN-0081,Air Receiver AR-81,vertical air receiver tank used for compressed air storage,Capacity=2000L; Pressure=10bar; Material=IS2062; Coating=Epoxy,2,2026-05-20
+SN-0082,Condensate Trap CT-82,automatic condensate trap used on compressed air lines,Connection=1/2 inch; Pressure=0-16bar; Body=Aluminum; Type=Float,36,2026-05-21
+SN-0083,Refrigerated Air Dryer RAD-83,refrigerated dryer used in the compressed air system,Capacity=1000CFM; Voltage=415VAC; Dew Point=+3C; Refrigerant=R134a,3,2026-05-22
+SN-0084,Oil-Free Compressor OFC-84,oil-free screw compressor used for instrument air,Power=45kW; Pressure=7.5bar; Voltage=415VAC; Cooling=Air Cooled,2,2026-05-23
+SN-0085,Instrument Cabinet IC-85,field-mounted cabinet used for instrumentation modules,Material=SS304; Size=800x600x300mm; IP=IP66; Mounting=Wall,15,2026-05-24
+SN-0086,Manifold Valve MV-86,two-valve manifold used for pressure transmitter isolation,Material=SS316; Connection=1/2 inch NPT; Rating=6000psi; Type=Block+Bleed,40,2026-05-25
+SN-0087,Impulse Tubing IT-87,SS impulse tubing used for pressure connections,Material=SS316; Size=1/2 inch OD; Thickness=1.5mm; Length=6m,95,2026-05-26
+SN-0088,Solenoid Valve SV-88,pilot-operated solenoid valve used on the process line,Size=1 inch; Body=Bronze; Voltage=230VAC; Media=Water,52,2026-05-27
+SN-0089,Diaphragm Valve DV-89,manual diaphragm valve used on CIP lines,Size=DN40; Body=SS316L; End=Tri-clamp; Finish=Electropolished,38,2026-05-28
+SN-0090,Sample Valve SV-90,hygienic sample valve used for product sampling,Connection=Tri-clamp; Body=SS316L; Seat=EPDM; Max Temp=135C,26,2026-05-29
+SN-0091,Plate Heat Exchanger PHE-91,plate heat exchanger used for product heating,Plates=80; Material=SS316L; Duty=250kW; Gasket=EPDM,3,2026-05-30
+SN-0092,Steam Trap ST-92,thermodynamic steam trap used for condensate removal,Size=15mm; Pressure=17bar; Body=Forged Steel; Connection=Screwed,64,2026-05-31
+SN-0093,Steam Hose SH-93,flexible steam hose used for cleaning stations,Size=3/4 inch; Pressure=10bar; Length=20m; Cover=Heat Resistant,44,2026-06-01
+SN-0094,Insulation Mattress IM-94,removable insulation mattress used on process piping,Thickness=50mm; Material=Mineral Wool; Cover=Aluminum Cloth; Temp=250C,90,2026-06-02
+SN-0095,Pipe Support PS-95,adjustable pipe support used for stainless piping,Pipe Size=DN50; Height=500-800mm; Material=SS304; Base=Anchor Type,120,2026-06-03
+SN-0096,Expansion Joint EJ-96,rubber expansion joint used for pipeline vibration isolation,Size=DN100; Length=150mm; Flange=PN16; Temperature=120C,22,2026-06-04
+SN-0097,Process Pump PP-97,centrifugal process pump used for product transfer,Flow=30m3/h; Head=40m; Motor=7.5kW; Material=SS316L,7,2026-06-05
+SN-0098,Pump Base Frame PBF-98,common base frame used for pump and motor mounting,Material=MS; Size=1600x600mm; Finish=Epoxy Painted; Pads=Levelling,14,2026-06-06
+SN-0099,Food Grade Hose FH-99,flexible food-grade hose used for product transfer,Size=2 inch; Length=10m; Liner=PTFE; Braid=SS304,32,2026-06-07
+SN-0100,CIP Skid Frame CSF-100,structural skid frame used for CIP system assembly,Material=SS304; Size=2500x1500mm; Height=1800mm; Finish=Bead Blasted,3,2026-06-08

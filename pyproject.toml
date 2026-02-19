@@ -1,7 +1,11 @@
 [project]
 name = "email-dataset"
 version = "0.1.0"
-description = "Add your description here"
+description = "Factory email extraction and NER-based ML model for structured field extraction"
 readme = "README.md"
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "scikit-learn>=1.8.0",
+    "pandas>=3.0.0",
+    "tabulate>=0.9.0",
+]
